@@ -31,7 +31,7 @@ const CSS = `
 :root{--brand:#f1bb08;--brand-dim:#d8a807;--on-brand:#050505;--text:#1c1d1d;--bg:#fff;--dim:#f2f2f2;--dark:#111;--border:#e8e8e1;--muted:#5a5b5b}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;font:400 17px/1.6 Jost,"Helvetica Neue",Arial,sans-serif;color:var(--text);background:var(--bg)}
-a{color:inherit}a:hover{color:var(--brand-dim)}
+a{color:inherit}a:hover{color:#7a5c00}
 h1,h2,h3{font-family:Poppins,Futura,"Century Gothic",sans-serif;font-weight:700;line-height:1.2;margin:0 0 .5em;text-transform:uppercase;letter-spacing:0}
 h1{font-size:clamp(26px,4vw,35px)}h2{font-size:clamp(20px,3vw,26px);margin-top:1.6em}h3{font-size:18px;text-transform:none}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
@@ -48,7 +48,8 @@ main{padding:32px 0 48px}
 .disclose{background:var(--dim);border-left:6px solid var(--brand);padding:14px 18px;border-radius:0 10px 10px 0;margin:24px 0;font-size:16px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;margin:24px 0}
 .card{border:1px solid var(--border);border-radius:10px;padding:20px;background:#fff;display:flex;flex-direction:column;gap:10px}
-.card .stars{color:var(--brand-dim);letter-spacing:2px;font-size:15px}
+.card .stars{color:#7a5c00;letter-spacing:2px;font-size:15px}
+.sr{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
 .card h3{margin:0;font-size:17px}
 .card blockquote{margin:0;font-size:16px}
 .card footer{margin-top:auto;font-size:14px;color:var(--muted)}
@@ -71,7 +72,7 @@ function reviewCard(r) {
   <div class="stars" aria-label="${r.rating} out of 5 stars">${stars(r.rating)} <span style="letter-spacing:0">${r.rating}/5</span></div>
   <h3>${esc(r.title)}</h3>
   <blockquote>“${esc(r.text)}”</blockquote>
-  <footer>${esc(r.name)}, ${esc(COUNTRY[r.country] || r.country)} · ${fmtDate(r.date)} · <a href="${SITE.trustpilotUrl}" rel="nofollow noopener" target="_blank">Source: Trustpilot</a></footer>
+  <footer>${esc(r.name)}, ${esc(COUNTRY[r.country] || r.country)} · ${fmtDate(r.date)} · <a href="${SITE.trustpilotUrl}" rel="nofollow noopener" target="_blank">Source: Trustpilot<span class="sr"> (opens in new tab)</span></a></footer>
 </article>`;
 }
 
@@ -104,7 +105,7 @@ function layout(page, body) {
 <meta name="description" content="${esc(page.description)}">
 <meta name="robots" content="${robots}">
 <link rel="canonical" href="${canon(page.path)}">
-<link rel="icon" href="${href('/favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="${href('/favicon.svg')}" type="image/svg+xml"><link rel="alternate icon" href="${href('/favicon.ico')}">
 <meta property="og:type" content="website"><meta property="og:site_name" content="${esc(SITE.name)}"><meta property="og:title" content="${esc(page.title)}"><meta property="og:description" content="${esc(page.description)}"><meta property="og:url" content="${canon(page.path)}"><meta property="og:image" content="${canon('/og.png')}"><meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
