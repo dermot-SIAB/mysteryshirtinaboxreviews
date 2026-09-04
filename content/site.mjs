@@ -14,7 +14,7 @@ export const SITE = {
 
 export const DISCLOSURE = {
   short: 'This site is run by Mystery Shirt in a Box. Every quote is a real customer review, copied word for word from Trustpilot.',
-  long: 'Mystery Shirt in a Box owns and runs this site. We built it so you can read what real customers say in one place, without hunting through pages of a review platform. Every quote is copied word for word from a public Trustpilot review, including typos, and we link to the source so you can check for yourself. We feature 4 and 5 star reviews here. The overall Trustpilot score, including the critical reviews, is shown at the bottom of every page, and you can read all of them on Trustpilot.',
+  long: 'This site is owned and run by Mystery Shirt in a Box. We built it because our reviews were spread across pages and pages of Trustpilot and we wanted somewhere you could read them in one go. Every quote is copied word for word from a public Trustpilot review, typos included, and each one links to the original so you can check it. The reviews we feature here are 4 and 5 star. The overall Trustpilot score, critical reviews and all, sits at the bottom of every page, and you can read every review on Trustpilot.',
 };
 
 // path → shop destination (the UK store). Query string UTM added at build time.
@@ -52,15 +52,15 @@ export const PAGES = [
     description: 'Real Mystery Shirt in a Box reviews from UK customers, quoted word for word from Trustpilot. Football, rugby, delivery, sizing and service.',
     h1: 'Mystery Shirt in a Box reviews, in customers’ own words',
     intro: [
-      'Thinking about ordering a mystery football or rugby shirt and want to know what actually turns up? This page collects real Mystery Shirt in a Box reviews from customers in the UK and Ireland, copied word for word from Trustpilot, with a link to every source.',
-      'The short version from the people who have bought one: the shirts are good quality, the clubs are often ones you have never heard of (that is the point, and the reviews are split on whether they love it), delivery is quick, and customer service gets a lot of praise by name. Sizing runs small on some shirts, and exchanges are the usual fix.',
+      'If you are thinking about a mystery football or rugby shirt, you probably want to know what actually turns up. This page pulls together Mystery Shirt in a Box reviews from customers in the UK and Ireland. Each one is copied word for word from Trustpilot and linked to the original.',
+      'The short version. People rate the quality. The club is usually one you have never heard of, which is the whole idea, though not everyone loves it. Delivery is quick. Customer service gets praised a lot, often by name. On the downside, some shirts run small, and most people fix that with an exchange.',
     ],
     filter: r => r.rating === 5,
     limit: 12,
     sections: [
       { h2: 'What people say most often', body: [
-        'Read enough of these and the same themes come up. Quality gets mentioned more than anything else. Speed of delivery is close behind, with several reviews surprised that a shirt ordered on a Thursday arrived on the Monday. Customer service is praised by name, usually Leona, for sorting sizing and preference changes within hours. And the mystery itself divides people: most reviewers enjoy getting a club they have never heard of, and a minority would like a big name occasionally.',
-        'We have grouped the reviews by topic so you can go straight to what you care about: football, rugby, the subscription, gifts, or delivery and service.',
+        'Read a few dozen of these and you start seeing the same things. Quality comes up more than anything. Delivery speed is next, and a few people were surprised that a shirt ordered on a Thursday was there by Monday. Customer service gets named, usually Leona, for sorting size and preference changes within a few hours. The mystery bit splits people. Most like getting a club they have never heard of. A few would like a big name now and then.',
+        'We have sorted the reviews by topic. If you only care about rugby, or about how quickly the parcel turns up, skip straight to that page.',
       ]},
     ],
     cta: { label: 'See the mystery football shirt box', shop: 'football' },
@@ -71,25 +71,25 @@ export const PAGES = [
     description: 'Is Mystery Shirt in a Box legit? Yes. What customers say, the overall Trustpilot score including critical reviews, and the common complaints explained.',
     h1: 'Is Mystery Shirt in a Box legit?',
     intro: [
-      'Yes. Mystery Shirt in a Box is a real UK-based company that ships football and rugby shirts from its warehouse, has thousands of public reviews on Trustpilot, and offers a 30 day returns and exchange window. It is not a scam. Whether it is right for you depends on how you feel about the mystery part.',
-      'This page is run by the company, so read it with that in mind. To keep it honest we quote reviews word for word, link every one to its source, and show the overall Trustpilot score at the bottom of the page including the one star reviews. You can read every review on Trustpilot.',
+      'Yes. Mystery Shirt in a Box is a real company based in the UK. It ships football and rugby shirts from its own warehouse and has thousands of public reviews on Trustpilot. You get 30 days to return or exchange a shirt. It is not a scam. Whether you will actually like it is a different question, and that comes down to how you feel about not choosing the club.',
+      'One thing to be upfront about: this site is run by the company. So read it knowing that. We quote every review word for word and link each one back to Trustpilot so you can check. The overall Trustpilot score, one star reviews included, is at the bottom of the page, and every review is there for you to read on Trustpilot itself.',
     ],
     filter: r => r.topics.includes('legit') || r.topics.includes('quality') || r.topics.includes('exchange'),
     limit: 8,
     sections: [
       { h2: 'What the critical reviews are about', body: [
-        'About a quarter of Trustpilot reviews are one star, and it would be odd to pretend otherwise. They mostly fall into four groups. First, people who received a shirt from a club they had never heard of and felt it was not worth the price. Second, sizing, because manufacturers cut differently and some shirts run small. Third, the subscription, where the two box minimum was not clear to the buyer before they signed up. Fourth, delivery timing, especially around Christmas and for Northern Ireland.',
-        'The positive reviews on this page mention the same things and land differently: the obscure club is the fun of it, the exchange sorted the size, the second box was worth it, the delay was fixed within the hour. Same product, different expectations. If you want a shirt from a club you already support, this is not the product for you. If you like the idea of a shirt nobody else in the pub has, the reviews suggest you will be happy.',
+        'About a quarter of the Trustpilot reviews are one star. No point pretending otherwise. Most of them are about one of four things. Someone got a club they had never heard of and did not think it was worth the money. The shirt ran small, because different manufacturers cut differently. The two box minimum on the subscription was not clear to them before they signed up. Or the parcel was late, usually at Christmas or going to Northern Ireland.',
+        'The positive reviews on this page talk about exactly the same things. The difference is how they landed. For these customers the obscure club was the fun part, the exchange sorted the size, the second box turned out to be worth it, and the late parcel got chased up within the hour. If what you want is a shirt from the club you already support, buy one from the club. This is for people who like the idea of turning up to the pub in something nobody can place.',
       ]},
       { h2: 'What the company actually promises', body: [
-        'Shirts are genuine club shirts, and if one misses the mark you can exchange it within 30 days (the exchange is free; you cover return postage on taste based swaps, and team preference swaps are honoured once). You can exclude up to three leagues or nations you do not want. The subscription has a two box minimum, then you can cancel whenever you like. UK delivery is tracked Royal Mail and takes about 48 hours from leaving the warehouse. If it is a gift, order at least a week ahead.',
+        'The shirts are genuine club shirts. If you do not like the one you get, you have 30 days to exchange it. The exchange itself is free, but if you are swapping because you did not fancy the shirt rather than because of a mistake, you pay the return postage. Swaps for team preference are honoured once. Before you order you can rule out up to three leagues or nations. The subscription has a two box minimum, and after that you can cancel whenever you want. UK delivery is tracked Royal Mail and takes about 48 hours from the moment it leaves the warehouse. If it is a gift, order at least a week before you need it.',
       ]},
     ],
     faq: [
-      { q: 'Is Mystery Shirt in a Box a scam?', a: 'No. It is a real UK company with thousands of public Trustpilot reviews, a 30 day returns and exchange policy, and a customer service team that reviewers praise by name. This site is run by the company; you can read every review, including critical ones, on Trustpilot.' },
-      { q: 'Are the shirts real?', a: 'Customers describe them as genuine club shirts, often from clubs they had never heard of. If a shirt misses the mark you can exchange it within 30 days.' },
-      { q: 'Why are there one star reviews?', a: 'Mostly because the mystery club was too obscure for the buyer, the shirt ran small, the subscription two box minimum was not understood, or delivery was slow at Christmas. The positive reviews describe the same things as the fun of it or as problems that were fixed quickly.' },
-      { q: 'Can I cancel the subscription?', a: 'Yes, after the two box minimum. Cancel whenever you like after your second box.' },
+      { q: 'Is Mystery Shirt in a Box a scam?', a: 'No. It is a real UK company with thousands of public reviews on Trustpilot and a 30 day returns and exchange policy. Reviewers tend to praise the customer service team by name. This site is run by the company, and you can read every review, including the critical ones, on Trustpilot.' },
+      { q: 'Are the shirts real?', a: 'Customers describe them as genuine club shirts, often from a club they had to look up. If you do not like yours you can exchange it within 30 days.' },
+      { q: 'Why are there one star reviews?', a: 'Usually one of four things. The club was too obscure for the buyer. The shirt ran small. The two box minimum on the subscription was not understood. Or a parcel was slow at Christmas. The positive reviews mention the same things, but either as the fun of it or as problems that got fixed quickly.' },
+      { q: 'Can I cancel the subscription?', a: 'Yes, once you have had your two boxes. There is a two box minimum, and after the second one you can cancel whenever you like.' },
     ],
     cta: { label: 'Visit the Mystery Shirt in a Box shop', shop: 'home' },
   },
@@ -99,13 +99,13 @@ export const PAGES = [
     description: 'Mystery football shirt reviews from UK and Irish customers: clubs received, quality, fit and whether they ordered again. Word for word from Trustpilot.',
     h1: 'Mystery football shirt reviews',
     intro: [
-      'These are real reviews of the mystery football shirt box, quoted word for word. Customers mention Crotone, San Francisco City, Guyana, Samsunspor, lower league Spanish and Australian clubs, and plenty of teams they had to look up. Quality and fit come up most.',
+      'These are reviews of the mystery football shirt box, quoted word for word. Crotone, San Francisco City, Guyana, Samsunspor, lower league Spanish and Australian sides, and a fair few clubs the reviewer had to google. Quality and fit come up most.',
     ],
     filter: r => r.topics.includes('football'),
     limit: 30,
     sections: [
       { h2: 'What to expect from the shirt', body: [
-        'The recurring line is some version of "a team I have never heard of, and it is actually a great shirt". The box comes with an info card about the club, which several reviewers say is their favourite part. On sizing, more than one reviewer says the shirts run small and recommends going up a size or using the exchange. You can exclude up to three leagues or nations before you order.',
+        'The line that comes up again and again is some version of "a team I have never heard of, and it is actually a great shirt". There is an info card about the club in the box, and a few reviewers say that is the best bit. On sizing, more than one person says the shirts run small and suggests going up a size, or just using the exchange. Before you order you can rule out up to three leagues or nations.',
       ]},
     ],
     cta: { label: 'See the mystery football shirt box', shop: 'football' },
@@ -116,13 +116,13 @@ export const PAGES = [
     description: 'Mystery rugby shirt reviews from UK and Irish customers: quality, fit for bigger builds, obscure clubs and the quarterly subscription. From Trustpilot.',
     h1: 'Mystery rugby shirt reviews',
     intro: [
-      'Fewer people write about the rugby box than the football one, so these reviews are worth reading closely. Customers talk about French semi pro clubs, Italian sides, "wonderfully obscure" teams, the quarterly delivery rhythm, and fit for bigger builds.',
+      'Fewer people write about the rugby box than the football one, so there is less to go on here and it is worth reading each one properly. Customers mention French semi pro clubs, Italian sides and "wonderfully obscure" teams. Fit for bigger builds comes up, and so does the fact that the box arrives every quarter rather than every month.',
     ],
     filter: r => r.topics.includes('rugby'),
     limit: 20,
     sections: [
       { h2: 'Rugby specifics', body: [
-        'The rugby subscription delivers every three months rather than monthly, which reviewers mention as a plus. The clubs tend to be from outside the UK, and the reviews on this page treat that as the appeal. As with football, if you only want your own club, this is not the box for you.',
+        'The rugby subscription comes every three months rather than monthly, and the reviewers who mention that seem to like it. The clubs tend to be from outside the UK. The people writing these reviews see that as the point. If you only want your own club, same advice as for football: this is not the box for you.',
       ]},
     ],
     cta: { label: 'See the mystery rugby shirt', shop: 'rugby' },
@@ -133,13 +133,13 @@ export const PAGES = [
     description: 'Is the Mystery Shirt in a Box subscription worth it? Reviews from customers on their 2nd, 7th and 13th shirt, plus the two box minimum explained plainly.',
     h1: 'Mystery Shirt in a Box subscription reviews',
     intro: [
-      'The subscription is where the strongest opinions live, in both directions. Here are reviews from customers who have had two, three, seven and thirteen shirts, quoted word for word. One thing to know before you sign up: there is a two box minimum, and after that you can cancel whenever you like. The reviews that mention cancellation trouble are almost always from people who did not know that.',
+      'The subscription gets the strongest opinions, good and bad. These are reviews from customers on their second, third, seventh and thirteenth shirt, quoted word for word. Before you sign up, know this: there is a two box minimum, and after that you can cancel whenever you like. Nearly every review that complains about cancelling is from someone who did not know about the minimum.',
     ],
     filter: r => r.topics.includes('subscription'),
     limit: 30,
     sections: [
       { h2: 'The two box minimum, plainly', body: [
-        'When you start a subscription you commit to two boxes. After the second one ships you can cancel at any time. That is the whole rule. We are stating it here because the company’s own critical reviews show it catches people out, and a review site that hid it would not be much use to you.',
+        'When you start a subscription you are committing to two boxes. Once the second one has shipped you can cancel at any time. There is nothing more to it than that. We are spelling it out because the company’s own critical reviews show it catches people out, and a reviews site that buried it would not be much use to you.',
       ]},
     ],
     cta: { label: 'See subscription options', shop: 'football' },
@@ -150,7 +150,7 @@ export const PAGES = [
     description: 'Reviews from people who bought a mystery football or rugby shirt as a gift for a son, partner, godson or son in law. Delivery timing tips included.',
     h1: 'Mystery shirt gift reviews',
     intro: [
-      'A lot of boxes are bought for someone else. These reviews are from people who gave one to a son, a partner, a teenage godson or a son in law, quoted word for word. The practical tip that comes out of them: order at least a week ahead of the date, and if you want the box to arrive unbranded, email the company and ask for the plain black mailer.',
+      'A lot of these boxes are bought for someone else. The reviews here are from people who gave one to a son, a partner, a teenage godson or a son in law, quoted word for word. Two practical things come out of them. Order at least a week before the day. And if you do not want the packaging to give the surprise away, email the company after ordering and ask for the plain black mailer.',
     ],
     filter: r => r.topics.includes('gift'),
     limit: 20,
@@ -163,13 +163,13 @@ export const PAGES = [
     description: 'How fast does Mystery Shirt in a Box deliver, and how good is the support? Real reviews on delivery times, exchanges and replies, quoted from Trustpilot.',
     h1: 'Delivery and customer service reviews',
     intro: [
-      'Customer service is the most consistently praised part of the whole experience, often by name. These reviews cover delivery speed (Thursday to Monday is a common story), what happened when a parcel was delayed, and how sizing swaps and preference changes were handled.',
+      'Customer service is the thing reviewers praise most consistently, and they often name the person who helped. These reviews cover how fast the parcel arrived (ordered Thursday, here Monday is a common story) and what happened when one was late. There are also a few on size swaps and preference changes.',
     ],
     filter: r => r.topics.includes('delivery') || r.topics.includes('service') || r.topics.includes('exchange'),
     limit: 30,
     sections: [
       { h2: 'What the company says about delivery', body: [
-        'UK orders go tracked Royal Mail and the company quotes about 48 hours from the parcel leaving the warehouse. Picking the shirt can add time before dispatch, which a couple of reviewers mention. Northern Ireland tends to add a day or two. Around Christmas, order early.',
+        'UK orders go tracked Royal Mail, and the company quotes about 48 hours from the parcel leaving the warehouse. Picking your shirt can add time before it is dispatched, which a couple of reviewers noticed. Northern Ireland tends to take a day or two longer. If you are ordering for Christmas, do it early.',
       ]},
     ],
     cta: { label: 'Visit the shop', shop: 'home' },
@@ -180,7 +180,7 @@ export const PAGES = [
     description: 'Every 4 and 5 star Mystery Shirt in a Box review featured on this site, newest first, with name, country and date. Quoted word for word from Trustpilot.',
     h1: 'All featured reviews, newest first',
     intro: [
-      'Every review we feature on this site, in one list. Each one is a real 4 or 5 star Trustpilot review, copied word for word, with the reviewer’s display name, country and the date it was published. For the complete picture including critical reviews, use the Trustpilot link at the bottom of the page.',
+      'Every review we feature on this site, in one list. Each is a 4 or 5 star Trustpilot review copied word for word, with the reviewer’s display name, country and the date it went up. For the full picture, critical reviews included, use the Trustpilot link at the bottom of the page.',
     ],
     filter: () => true,
     limit: 1000,
@@ -193,20 +193,20 @@ export const PAGES = [
     description: 'Straight answers to the questions people ask before ordering a mystery shirt: sizing, exchanges, excluding teams, cancelling, gifts and delivery.',
     h1: 'Questions people ask before ordering',
     intro: [
-      'Short answers, based on the company’s published policies and what reviewers report. Where a policy page and a marketing page disagree, we go with the policy page.',
+      'Short answers, based on the company’s published policies and what reviewers say. Where a policy page and a marketing page disagree, we have gone with the policy page.',
     ],
     filter: () => false,
     limit: 0,
     sections: [],
     faq: [
-      { q: 'What is Mystery Shirt in a Box?', a: 'A UK company that sends you a football or rugby shirt you did not choose. You pick your size and exclude up to three leagues or nations you do not want; they pick the shirt. It comes as a one off or as a subscription.' },
-      { q: 'What if the shirt does not fit?', a: 'You have 30 days to return or exchange. The exchange itself is free. For a swap based on taste rather than an error, you cover the return postage, and team preference swaps are honoured once. Tags need to be on. Several reviewers say the shirts run small, so consider sizing up.' },
-      { q: 'Can I choose the team?', a: 'No, that is the mystery. You can exclude up to three leagues or nations, name teams you do not want, and add free text preferences.' },
-      { q: 'How do I cancel the subscription?', a: 'There is a two box minimum. After your second box ships you can cancel whenever you like.' },
-      { q: 'How long does delivery take?', a: 'UK orders are tracked Royal Mail and take about 48 hours from leaving the warehouse. Picking the shirt can add time before dispatch. If it is a gift, order at least a week ahead.' },
-      { q: 'Can it be sent as a gift without spoiling the surprise?', a: 'Yes. Email the company after ordering and ask for the plain black mailer bag. It is on request, not automatic.' },
-      { q: 'Did Gary Neville really have one?', a: 'Yes. He had a box and liked it. It was not a paid partnership.' },
-      { q: 'Who runs this reviews site?', a: 'Mystery Shirt in a Box does. Every quote is a real Trustpilot review copied word for word and linked to its source, and the overall Trustpilot score including critical reviews is shown on every page.' },
+      { q: 'What is Mystery Shirt in a Box?', a: 'A UK company that sends you a football or rugby shirt you did not pick. You choose your size and rule out up to three leagues or nations you do not want. They choose the shirt. You can buy one box on its own or take out a subscription.' },
+      { q: 'What if the shirt does not fit?', a: 'You have 30 days to return or exchange it. The exchange itself is free. If you are swapping because you did not like the shirt, rather than because something went wrong, you pay the return postage. Team preference swaps are honoured once. Tags need to still be on. A few reviewers say the shirts run small, so think about going up a size.' },
+      { q: 'Can I choose the team?', a: 'No, that is the whole point. What you can do is rule out up to three leagues or nations, name teams you do not want, and add a free text note about your preferences.' },
+      { q: 'How do I cancel the subscription?', a: 'There is a two box minimum. Once your second box has shipped you can cancel whenever you like.' },
+      { q: 'How long does delivery take?', a: 'UK orders go tracked Royal Mail and take about 48 hours from leaving the warehouse. Picking your shirt can add a bit of time before it is dispatched. If it is a gift, order at least a week ahead.' },
+      { q: 'Can it be sent as a gift without spoiling the surprise?', a: 'Yes. Email the company after you order and ask for the plain black mailer bag. You do have to ask, it does not happen by default.' },
+      { q: 'Did Gary Neville really have one?', a: 'Yes. He had one and liked it. He was not paid, and it was not a partnership.' },
+      { q: 'Who runs this reviews site?', a: 'Mystery Shirt in a Box does. Every quote is a real Trustpilot review, copied word for word and linked back to the original. The overall Trustpilot score, critical reviews included, is on every page.' },
     ],
     cta: { label: 'Visit the shop', shop: 'home' },
   },
@@ -220,14 +220,14 @@ export const PAGES = [
     limit: 0,
     sections: [
       { h2: 'How we choose reviews', body: [
-        'We feature 4 and 5 star reviews from the public Trustpilot profile. We do not edit them: spelling, grammar and emoji stay as the customer wrote them, because cleaned up quotes read like marketing wrote them. We do not pay for reviews, and we do not remove critical reviews from Trustpilot; they are there for you to read.',
-        'We leave out reviews that are not really about a purchase (for example giveaway winners) and reviews where quoting them publicly would not be fair to the person who wrote them.',
+        'We pick 4 and 5 star reviews from the public Trustpilot profile. We do not tidy them up. Spelling, grammar and emoji stay exactly as the customer typed them, because a cleaned up quote reads like something marketing wrote. We do not pay for reviews. We do not remove critical reviews from Trustpilot either. They are there for anyone to read.',
+        'We leave out reviews that are not really about buying a shirt, giveaway winners for example, and any where quoting someone publicly would not be fair on them.',
       ]},
       { h2: 'How we handle the overall score', body: [
-        'The footer of every page shows the current Trustpilot score and review count with the date we captured it, and a link to the profile. We do not publish a star rating badge or rating markup for search engines on this site, because a rating built only from the reviews we chose to feature would be misleading.',
+        'The footer on every page shows the current Trustpilot score and review count, the date we took it, and a link to the profile. We do not put a rating badge on this site or add rating markup for search engines, because a rating built only from the reviews we chose to show would be misleading.',
       ]},
       { h2: 'Contact', body: [
-        'Questions about an order go to the shop’s customer service team through mysteryshirtinabox.com. Spotted a quote on this site that does not match the Trustpilot original? Tell us the same way and we will fix it.',
+        'If it is about an order, go to the shop’s customer service team through mysteryshirtinabox.com. If you spot a quote on this site that does not match the Trustpilot original, tell us the same way and we will fix it.',
       ]},
     ],
     cta: { label: 'Visit the shop', shop: 'home' },
