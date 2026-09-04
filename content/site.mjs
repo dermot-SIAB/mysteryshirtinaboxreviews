@@ -49,7 +49,7 @@ export const PAGES = [
   {
     path: '/',
     title: 'Mystery Shirt in a Box Reviews | Real UK Customer Reviews',
-    description: 'Real Mystery Shirt in a Box reviews from UK customers, quoted word for word from Trustpilot. Football and rugby mystery shirts, delivery, sizing and service.',
+    description: 'Real Mystery Shirt in a Box reviews from UK customers, quoted word for word from Trustpilot. Football, rugby, delivery, sizing and service.',
     h1: 'Mystery Shirt in a Box reviews, in customers’ own words',
     intro: [
       'Thinking about ordering a mystery football or rugby shirt and want to know what actually turns up? This page collects real Mystery Shirt in a Box reviews from customers in the UK and Ireland, copied word for word from Trustpilot, with a link to every source.',
@@ -68,7 +68,7 @@ export const PAGES = [
   {
     path: '/is-mystery-shirt-in-a-box-legit/',
     title: 'Is Mystery Shirt in a Box Legit? Honest Answer + Reviews',
-    description: 'Is Mystery Shirt in a Box legit? Yes. Here is what customers say, the overall Trustpilot score including critical reviews, and the common complaints explained.',
+    description: 'Is Mystery Shirt in a Box legit? Yes. What customers say, the overall Trustpilot score including critical reviews, and the common complaints explained.',
     h1: 'Is Mystery Shirt in a Box legit?',
     intro: [
       'Yes. Mystery Shirt in a Box is a real UK-based company that ships football and rugby shirts from its warehouse, has thousands of public reviews on Trustpilot, and offers a 30 day returns and exchange window. It is not a scam. Whether it is right for you depends on how you feel about the mystery part.',
@@ -96,7 +96,7 @@ export const PAGES = [
   {
     path: '/football-shirt-reviews/',
     title: 'Mystery Football Shirt Reviews | What UK Customers Received',
-    description: 'Mystery football shirt reviews from UK and Irish customers: the clubs they received, shirt quality, fit and whether they ordered again. Quoted word for word from Trustpilot.',
+    description: 'Mystery football shirt reviews from UK and Irish customers: clubs received, quality, fit and whether they ordered again. Word for word from Trustpilot.',
     h1: 'Mystery football shirt reviews',
     intro: [
       'These are real reviews of the mystery football shirt box, quoted word for word. Customers mention Crotone, San Francisco City, Guyana, Samsunspor, lower league Spanish and Australian clubs, and plenty of teams they had to look up. Quality and fit come up most.',
@@ -113,7 +113,7 @@ export const PAGES = [
   {
     path: '/rugby-shirt-reviews/',
     title: 'Mystery Rugby Shirt Reviews | UK Customer Reviews',
-    description: 'Mystery rugby shirt reviews from UK and Irish customers: quality, fit for bigger builds, obscure clubs and the quarterly subscription. Quoted word for word from Trustpilot.',
+    description: 'Mystery rugby shirt reviews from UK and Irish customers: quality, fit for bigger builds, obscure clubs and the quarterly subscription. From Trustpilot.',
     h1: 'Mystery rugby shirt reviews',
     intro: [
       'Fewer people write about the rugby box than the football one, so these reviews are worth reading closely. Customers talk about French semi pro clubs, Italian sides, "wonderfully obscure" teams, the quarterly delivery rhythm, and fit for bigger builds.',
@@ -146,7 +146,7 @@ export const PAGES = [
   },
   {
     path: '/gift-reviews/',
-    title: 'Mystery Shirt in a Box Gift Reviews | Sons, Partners, Godsons',
+    title: 'Mystery Shirt in a Box Gift Reviews | Sons, Partners, More',
     description: 'Reviews from people who bought a mystery football or rugby shirt as a gift for a son, partner, godson or son in law. Delivery timing tips included.',
     h1: 'Mystery shirt gift reviews',
     intro: [
@@ -159,8 +159,8 @@ export const PAGES = [
   },
   {
     path: '/delivery-and-customer-service-reviews/',
-    title: 'Mystery Shirt in a Box Delivery & Customer Service Reviews',
-    description: 'How fast does Mystery Shirt in a Box deliver and how good is the customer service? Reviews on delivery times, exchanges and support replies, quoted from Trustpilot.',
+    title: 'Mystery Shirt in a Box Delivery & Service Reviews',
+    description: 'How fast does Mystery Shirt in a Box deliver, and how good is the support? Real reviews on delivery times, exchanges and replies, quoted from Trustpilot.',
     h1: 'Delivery and customer service reviews',
     intro: [
       'Customer service is the most consistently praised part of the whole experience, often by name. These reviews cover delivery speed (Thursday to Monday is a common story), what happened when a parcel was delayed, and how sizing swaps and preference changes were handled.',
@@ -190,7 +190,7 @@ export const PAGES = [
   {
     path: '/faq/',
     title: 'Mystery Shirt in a Box FAQ | Sizing, Returns, Cancelling',
-    description: 'Straight answers to the questions people ask before ordering a mystery shirt: sizing, exchanges, excluding teams, cancelling the subscription, gifts and delivery.',
+    description: 'Straight answers to the questions people ask before ordering a mystery shirt: sizing, exchanges, excluding teams, cancelling, gifts and delivery.',
     h1: 'Questions people ask before ordering',
     intro: [
       'Short answers, based on the company’s published policies and what reviewers report. Where a policy page and a marketing page disagree, we go with the policy page.',
