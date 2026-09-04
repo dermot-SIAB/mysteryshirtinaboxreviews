@@ -102,7 +102,7 @@ export const PAGES = [
       'These are reviews of the mystery football shirt box, quoted word for word. Crotone, San Francisco City, Guyana, Samsunspor, lower league Spanish and Australian sides, and a fair few clubs the reviewer had to google. Quality and fit come up most.',
     ],
     filter: r => r.topics.includes('football'),
-    limit: 30,
+    limit: 100000,
     sections: [
       { h2: 'What to expect from the shirt', body: [
         'The line that comes up again and again is some version of "a team I have never heard of, and it is actually a great shirt". There is an info card about the club in the box, and a couple of reviewers say that is the best bit. On sizing, more than one person says the shirts run small and suggests going up a size, or just using the exchange. Before you order you can rule out up to three leagues or nations.',
@@ -119,7 +119,7 @@ export const PAGES = [
       'Fewer people write about the rugby box than the football one, so there is less to go on here and it is worth reading each one properly. Customers mention French semi pro clubs, Italian sides and "wonderfully obscure" teams. Fit for bigger builds comes up, and so does the fact that the box arrives every quarter rather than every month.',
     ],
     filter: r => r.topics.includes('rugby'),
-    limit: 20,
+    limit: 100000,
     sections: [
       { h2: 'Rugby specifics', body: [
         'The rugby subscription can be set to arrive every three months rather than monthly, and the reviewers on that rhythm seem to like it. The clubs tend to be from outside the UK. The people writing these reviews see that as the point. If you only want your own club, same advice as for football: this is not the box for you.',
@@ -136,7 +136,7 @@ export const PAGES = [
       'The subscription gets the strongest opinions, good and bad. These are reviews from customers on their second, third, seventh and thirteenth shirt, quoted word for word. Before you sign up, know this: there is a two box minimum, and after that you can cancel whenever you like. Nearly every review that complains about cancelling is from someone who did not know about the minimum.',
     ],
     filter: r => r.topics.includes('subscription'),
-    limit: 30,
+    limit: 100000,
     sections: [
       { h2: 'The two box minimum, plainly', body: [
         'When you start a subscription you are committing to two boxes. Once the second one has shipped you can cancel at any time. There is nothing more to it than that. We are spelling it out because the company’s own critical reviews show it catches people out, and a reviews site that buried it would not be much use to you.',
@@ -153,7 +153,7 @@ export const PAGES = [
       'A lot of these boxes are bought for someone else. The reviews here are from people who gave one to a son, a partner, a teenage godson or a son in law, quoted word for word. Two practical things come out of them. Order at least a week before the day. And if you do not want the packaging to give the surprise away, email the company after ordering and ask for the plain black mailer.',
     ],
     filter: r => r.topics.includes('gift'),
-    limit: 20,
+    limit: 100000,
     sections: [],
     cta: { label: 'See football gift ideas', shop: 'gift' },
   },
@@ -166,7 +166,7 @@ export const PAGES = [
       'Customer service is the thing reviewers praise most consistently, and they often name the person who helped. These reviews cover how fast the parcel arrived (one ordered on a Thursday and had it by Monday) and what happened when one was late. There are also a few on size swaps and preference changes.',
     ],
     filter: r => r.topics.includes('delivery') || r.topics.includes('service') || r.topics.includes('exchange'),
-    limit: 30,
+    limit: 100000,
     sections: [
       { h2: 'What the company says about delivery', body: [
         'UK orders go tracked Royal Mail, and the company quotes about 48 hours from the parcel leaving the warehouse. Picking your shirt can add time before it is dispatched, which a couple of reviewers noticed. If you are ordering for Christmas, do it early.',
@@ -183,7 +183,7 @@ export const PAGES = [
       'Every review we feature on this site, in one list. Each is a 4 or 5 star Trustpilot review copied word for word, with the reviewer’s display name, country and the date it went up. For the full picture, critical reviews included, use the Trustpilot link at the bottom of the page.',
     ],
     filter: () => true,
-    limit: 1000,
+    limit: 100000,
     sections: [],
     cta: { label: 'Visit the shop', shop: 'home' },
   },
