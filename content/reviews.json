@@ -5,71 +5,4970 @@
     "captured": "2026-09-04",
     "trustScore": 3.7,
     "reviewCount": 2502,
-    "breakdown": {"5": 57, "4": 10, "3": 3, "2": 3, "1": 27},
-    "note": "Overall score and count are shown on every page. This site features 4- and 5-star reviews only, quoted verbatim. Read every review, including the critical ones, on Trustpilot."
+    "breakdown": {
+      "1": 27,
+      "2": 3,
+      "3": 3,
+      "4": 10,
+      "5": 57
+    },
+    "note": "Overall score and count are shown on every page. This site features 4- and 5-star reviews only, quoted verbatim. Read every review, including the critical ones, on Trustpilot.",
+    "featuredCount": 377
   },
   "reviews": [
-    {"id":"r001","name":"Bryan Allan","country":"GB","date":"2026-09-01","rating":5,"title":"Actually forgot to put my preferences…","text":"Actually forgot to put my preferences on my order for my young son. Sent an email and it was added to my order immediately. Received a shirt for him and for me. Met the criteria we specified and came right out of left field. Real mystery shirts we definitely would've have bought otherwise and good quality too. No issues at all. Great service.","topics":["football","service","gift","quality"]},
-    {"id":"r002","name":"PeterCurry","country":"NL","date":"2026-09-01","rating":5,"title":"Really nice strip from southern Italy","text":"Really nice strip from southern Italy. Never heard of the Wilders but quality strip.","topics":["football","quality"]},
-    {"id":"r003","name":"Michael Canning","country":"GB","date":"2026-08-31","rating":5,"title":"Great product and service","text":"Great product, timely and hassle free order and delivery. Looking forward to my next shirt. An easy 5⭐ review.","topics":["football","delivery","subscription"]},
-    {"id":"r004","name":"Andrew Brown","country":"GB","date":"2026-08-27","rating":5,"title":"OK random team delivered but good!","text":"OK random team delivered, but shirt was of high quality and it fit, not a miserable size for a change, will continue with subscription as it was a good shirt, some random Italian team, but i hope that some of the money will filter down to them! Impressed!","topics":["football","quality","subscription"]},
-    {"id":"r005","name":"scott currie","country":"GB","date":"2026-08-27","rating":5,"title":"Quick delivery","text":"Arrived quickly after ordering but it was too small(my fault). Exchange process was simple and the replacement turned up in a week. Was an Indian team shirt that I'm sure I had excluded when picking the 3 countries I didn't want, but I must say it looks pretty good so will keep it anyway and will be happy to stay subscribed.","topics":["football","delivery","exchange","subscription"]},
-    {"id":"r006","name":"David Hanna","country":"GB","date":"2026-08-26","rating":5,"title":"Fantastic top and love the quality of…","text":"Fantastic top and love the quality of it!","topics":["football","quality"]},
-    {"id":"r007","name":"Justin Kimber","country":"GB","date":"2026-08-25","rating":5,"title":"Excellent and shirt came quickly.","text":"Excellent and shirt came quickly. Leona online was very helpful too with my questions 👍","topics":["delivery","service"]},
-    {"id":"r008","name":"Simon Howard","country":"IE","date":"2026-08-25","rating":5,"title":"Loved the jerseys we got","text":"Loved the jerseys we got, really nice and great quality","topics":["football","quality"]},
-    {"id":"r009","name":"graham McLachlan","country":"GB","date":"2026-08-23","rating":5,"title":"Easy app to download and use first…","text":"Easy app to download and use first class tops very quick delivery thank you","topics":["delivery","quality"]},
-    {"id":"r010","name":"Lee Walker","country":"GB","date":"2026-08-22","rating":5,"title":"Quality products and fast delivery","text":"Quality products and fast delivery. Also really quick at responding to queries","topics":["delivery","service","quality"]},
-    {"id":"r011","name":"Peter Duignan","country":"IE","date":"2026-08-20","rating":5,"title":"Good quality jerseys","text":"I really like the concept. Jerseys are small fitting but once you have your size, you are away with it. I have had three of them now. I received a jersey that i did not like so i got it exchanged. Customer support was prompt.","topics":["football","quality","exchange","service","subscription"]},
-    {"id":"r012","name":"Yasmin Stefanov-King","country":"GB","date":"2026-08-19","rating":5,"title":"Flipping AWESOME (And yes, I know I am shouting!)","text":"The speed of delivery is crazy fast! I thought it would be up to a week, but they came through within 48 hours. The shirts are great, and the joy is the fact they are coming from all over the world - which then means my youngest goes off to research that area. It has meant they now want to visit all the places the shirts are from, but hey, we can live with this! I have read reviews where people have said \"I'm not paying that much for some team I don't know\" - Really? Because these are still cheaper than the shirts for our local non-professional team, and we have a lot of those! If you are really narrow minded and ONLY want shirts for YOUR team, then no, this is not for you. BUT, if you love rugby, and want to see how it is done in the rest of the world, plus have an excuse to build your collection and knowledge of obscure and wonderful teams, then this is the thing for you. And let's be honest, who DOESN'T want a gift every month!?","topics":["rugby","delivery","gift","value","subscription"]},
-    {"id":"r013","name":"Christopher","country":"GB","date":"2026-08-18","rating":5,"title":"Great helpful prompt service","text":"Great helpful prompt service. Resolved my problem so quick and very polite","topics":["service"]},
-    {"id":"r014","name":"Mark Andrew","country":"GB","date":"2026-08-17","rating":5,"title":"Love shirt,prompt delivery and good…","text":"Love shirt,prompt delivery and good price would definitely recommend","topics":["football","delivery","value"]},
-    {"id":"r015","name":"kelvin clark","country":"GB","date":"2026-08-17","rating":5,"title":"Apart from the product being top notch","text":"Apart from the product being top notch, even for us fat lad rugby players, customer service was prompt, friendly, and had a sense of humour. No more spending hours trawling through eBay to find a shirt I like only to find its an xxs. Woohoo.","topics":["rugby","service","quality"]},
-    {"id":"r016","name":"Stuart Preece","country":"GB","date":"2026-08-16","rating":5,"title":"I had a sizing issue and emailed a lady…","text":"I had a sizing issue and emailed a lady called Leona on a Sunday afternoon - she came back to me within an hour and has been excellent","topics":["service","exchange"]},
-    {"id":"r017","name":"Michael Harrison","country":"IE","date":"2026-08-14","rating":5,"title":"Excellent concept","text":"Excellent concept, loved the shirt","topics":["football"]},
-    {"id":"r018","name":"Mr","country":"GB","date":"2026-08-14","rating":5,"title":"I started a subscription","text":"I started a subscription, received my first shirt, it's random which is what I was looking for, the size is what I asked for but it's a bit large, depends on the cut I guess. Will be keeping my subscription just now and look forward to my next one.","topics":["football","subscription"]},
-    {"id":"r019","name":"John Cracknell","country":"GB","date":"2026-08-14","rating":5,"title":"Very Impressed.","text":"I am very impressed with Mysteryshirtinabox. I have opted for the rugby shirts. To date I have had two deliveries and I have not been disappointed. The shirts are good quality and the clubs to date have been wonderfully obscure! Their communication is excellent and I get a new shirt every three months. When we moved house, even the change of address was not and issue.","topics":["rugby","quality","subscription","service"]},
-    {"id":"r020","name":"Scott Pierce","country":"GB","date":"2026-08-13","rating":5,"title":"I love it..","text":"I love the whole idea of shirt in a box.. I love my first shirt and cannot wait for the next one. I am a football fan and a fan of kits in general so unlikely to be disappointed. It's a commitment but a fun one.","topics":["football","subscription"]},
-    {"id":"r021","name":"Alex","country":"GB","date":"2026-08-13","rating":5,"title":"Chest Size","text":"I've had two orders delivered now and they have both been brilliant. I think if you could add in your chest size as opposed to the size, it could avoid any disappointment as sizes vary between manufacturers. Other than that, the service and quality of the tops has been fantastic.","topics":["football","quality","service"]},
-    {"id":"r022","name":"Raymond","country":"GB","date":"2026-08-13","rating":5,"title":"I found your response to my question…","text":"I found your response to my question was quick and very professional. You were very helpful and went out of your way, thankyou.","topics":["service"]},
-    {"id":"r023","name":"Tim","country":"GB","date":"2026-08-11","rating":5,"title":"Great item as usual","text":"Great item as usual. Getting loads of interest when I wear them out. Can't wait for the next one!!👍⚽","topics":["football","subscription"]},
-    {"id":"r024","name":"there","country":"GB","date":"2026-08-08","rating":5,"title":"Second Shirt","text":"Although the delivery was delayed, they did everything possible to get my delivery back on track. Delighted with the Guyana 2nd shirt, great fit and very striking colours and design. Very happy with both shirts so far.","topics":["football","quality","service"]},
-    {"id":"r025","name":"Joanne Ford","country":"GB","date":"2026-08-08","rating":5,"title":"Have to say delighted with these guys","text":"Have to say delighted with these guys! Responded quickly to my query and a resolution was virtually instant! Will happily buy form them!","topics":["service"]},
-    {"id":"r026","name":"Neil Hunter-Hall","country":"GB","date":"2026-08-08","rating":5,"title":"I got the San Francisco City shirt and…","text":"I got the San Francisco City shirt and it's amazing, the quality and details on this shirt is fantastic","topics":["football","quality"]},
-    {"id":"r027","name":"James Reilly","country":"GB","date":"2026-08-08","rating":5,"title":"Can not criticise in any way Good job!","text":"Can not criticise in any way. Good service. No problem with returns. Happy to endorse. And the tops are belters.","topics":["football","exchange","service","quality"]},
-    {"id":"r028","name":"Alex Jex","country":"GB","date":"2026-08-07","rating":5,"title":"Bang on","text":"Bang on, shirts are nice, fresh, legit. Had a delay on a shirt, chased it up got a reply next day with tracking details, turned up that day anyway. Bosh.","topics":["football","delivery","service","legit"]},
-    {"id":"r029","name":"Terry Dale","country":"GB","date":"2026-08-07","rating":5,"title":"I don't get the angst.","text":"I don't get the angst. It's a football shirt! No tracking number for my latest delivery, took about 30 minutes to sort and it's out for delivery. So clearly a post office issue. I'm very happy","topics":["football","delivery","service"]},
-    {"id":"r030","name":"Sunny","country":"NZ","date":"2026-08-06","rating":5,"title":"Great Service","text":"Sick jerseys, if you want niche jerseys, highly recommend. Also, their customer support is really quick with responses. Will definitely reorder, maybe even consider subscribing.","topics":["football","service"]},
-    {"id":"r031","name":"Denis O brien","country":"IE","date":"2026-08-05","rating":5,"title":"I received my jersey quicker than…","text":"I received my jersey quicker than expected and it didn't disappoint, I received the guyana away shirt which has been a conversation starter whereever I go, looking forward to the next one already","topics":["football","delivery","subscription"]},
-    {"id":"r032","name":"Sean","country":"AU","date":"2026-08-05","rating":5,"title":"I decided to give Mystery Shirt in a…","text":"I decided to give Mystery Shirt in a Box a go and im really happy i did. The whole experience so far has been a good one, i had some questions and the customer service team where really quick to reply and where really helpful. I live in Australia so had to wait a little while for my shirt to get here but im really happy with the quality of what i received. My first shirt was the Guyana National Teams away shirt and i really like it, its a team absolutely no one here would have heard of and i really like the uniqueness of the item. Im very much looking forward to the next one!.","topics":["football","quality","service"]},
-    {"id":"r033","name":"customer","country":"GB","date":"2026-08-05","rating":5,"title":"Great present","text":"Fast delivery, A present for a son in law and he was delighted, a great suprise.","topics":["gift","delivery"]},
-    {"id":"r034","name":"gillies herd","country":"GB","date":"2026-08-03","rating":5,"title":"I have a subscription with Mystery…","text":"I have a subscription with Mystery Jersey and have been very satisfied with the choice of shirts sent, the fit and the delivery. Very happy so far","topics":["subscription","delivery"]},
-    {"id":"r035","name":"John Mc Cool","country":"GB","date":"2026-08-03","rating":5,"title":"The Shirts are brilliant","text":"The Shirts are brilliant. I have ow had 13 shirts from them and recommend the service to anyone and everyone. Picking out the shirt from their end can delay it sometimes but thats nothing to worry about. Just a fantastic product, I wear mine continously and they have made me start collecting Jerseys again. Having the various options to set who you dont want ensures you aren't disappointed with your teams rivals.","topics":["football","subscription","quality"]},
-    {"id":"r036","name":"Martyn Dawson","country":"GB","date":"2026-08-03","rating":5,"title":"Very happy with my first shirt","text":"Very happy with my first shirt. 👌🏼","topics":["football"]},
-    {"id":"r037","name":"MrDavidPhi","country":"GB","date":"2026-08-03","rating":5,"title":"Great shirt arrived on time couldn't…","text":"Great shirt arrived on time couldn't ask for more","topics":["football","delivery"]},
-    {"id":"r038","name":"Paul Cooper","country":"GB","date":"2026-07-30","rating":5,"title":"Pricing strategy on point","text":"The pricing is really good and I like the mystery of what shirt you may get from around the world and not knowing until you open the box. I decided to sign up due to the pricing as you can't get club or national shirts for this price so i may pick up a shirt for a club i follow for half of the normal price","topics":["football","value","subscription"]},
-    {"id":"r039","name":"David Littler","country":"GB","date":"2026-07-30","rating":5,"title":"Great looking shirt and a nice touch…","text":"Great looking shirt and a nice touch that the club was formed in my birth year. Looking forward to the next one.","topics":["football","subscription"]},
-    {"id":"r040","name":"Miss Tracy Parker","country":"GB","date":"2026-07-30","rating":5,"title":"First class customer service …","text":"For some reason my subscription didn't show on the system, I've never known customer service as good. Within a couple of hrs it had been sorted and my first box is on the way. The customer service is second to none","topics":["service","subscription"]},
-    {"id":"r041","name":"Anna Paulsson-Habegger","country":"GB","date":"2026-07-27","rating":5,"title":"Abs love this.","text":"Abs love this. Any issues they sort it ASAP. Had to return due to size but within a week we had a new shirt.Service or what. Highly recommend","topics":["exchange","service"]},
-    {"id":"r042","name":"John Graham","country":"GB","date":"2026-07-24","rating":5,"title":"Excellent customer service","text":"The service I received from mystery shirt in a box was first class, really looking to building my collection from leagues all around the world","topics":["service","football"]},
-    {"id":"r043","name":"Nikki","country":"GB","date":"2026-07-23","rating":5,"title":"Wanted the size changed on my order…","text":"Wanted the size changed on my order after I'd seen that the money had been taken for it, my issue, not theirs. I didn't message until late in the evening, the reply was pretty immediate as was the resolution the issue. Absolutely fantastic.","topics":["service","exchange"]},
-    {"id":"r044","name":"Joel Thorpe","country":"GB","date":"2026-07-19","rating":5,"title":"I always enjoy receiving a shirt from…","text":"I always enjoy receiving a shirt from you guys. Thanks, Joel","topics":["subscription"]},
-    {"id":"r045","name":"Lochie","country":"AU","date":"2026-07-15","rating":5,"title":"Loved the shirt they first gave me","text":"Loved the shirt they first gave me. Have ordered a monthly sub!! I had a question and they responded to me the same day. Good customer service","topics":["football","subscription","service"]},
-    {"id":"r046","name":"Andrew Dsouza","country":"GB","date":"2026-07-06","rating":5,"title":"Excellent service and first shirt was grwat","text":"Excellent service and first shirt was great love that you can pick which countries you don't want as I am from UK didn't want UK shirts can't wait till next month , it's like Christmas 😁","topics":["football","subscription","service"]},
-    {"id":"r047","name":"Adam","country":"GB","date":"2026-07-06","rating":5,"title":"Nice a quick process","text":"Nice a quick process, ordered Thursday, received monday. Lovely crotone 2022/23 third top, will definitely order again","topics":["football","delivery"]},
-    {"id":"r048","name":"Christopher Morgan","country":"GB","date":"2026-06-29","rating":5,"title":"Great product","text":"Although awaiting an exchange for a larger size, my fault, seems to have put on a few pounds, it was a nice surprise to receive a shirt from a lesser known team from Africa. Will definitely be ordering again","topics":["football","exchange"]},
-    {"id":"r049","name":"Belle Mcclenaghan","country":"GB","date":"2026-06-17","rating":5,"title":"Omg the besttttt","text":"Omg, the only subscription i acc love!! Recommend to anyone for any occasion⭐️👏","topics":["subscription","gift"]},
-    {"id":"r050","name":"Sandy Mason","country":"IE","date":"2026-02-27","rating":5,"title":"Rugby jersey every 3 months for my godson","text":"I bought the offer of a rugby jersey delivered every 3 months over the year for my teenage godson. Two have been delivered so far and he loves both. Great communication from mysteryshirtinabox telling me when it is being delivered. The info card about the club/ jersey is a nice touch. Great quality - lasting the training sessions and multiple washes","topics":["rugby","gift","subscription","quality"]},
-    {"id":"r051","name":"stephen wright","country":"GB","date":"2026-03-12","rating":5,"title":"Great Rugby Shirt","text":"Great Rugby Shirt . Exactly what I ask for a Rugby shirt that you could not normally find . Great value for money 💰","topics":["rugby","value"]},
-    {"id":"r052","name":"Neil Beck","country":"GB","date":"2026-02-24","rating":5,"title":"Great.","text":"Great. Got a totally random shirt from the top tier of French semi pro rugby and it's gorgeous. Can't wait for the next.","topics":["rugby","subscription"]},
-    {"id":"r053","name":"Miranda Taylor","country":"GB","date":"2025-12-10","rating":5,"title":"A great gift for a rugby nut!","text":"Very quick delivery and arrived beautifully packaged. My partner is going to love for Xmas. A great gift for a rugby nut!","topics":["rugby","gift","delivery"]},
-    {"id":"r054","name":"Jade Henry","country":"GB","date":"2026-08-27","rating":4,"title":"Box arrived quick and the excitment was…","text":"Box arrived quick and the excitment was high, to see what shirt i recieved, as a larger man i was expecting some fitting issues even though i had selected 5xl, the shirt that came an australian lower league teams kit was nice but the fit was tight. already aticipating the next short and hoping for a better fit, overall experiance was excellent.","topics":["football","delivery","subscription"]},
-    {"id":"r055","name":"Chris Carmichael","country":"GB","date":"2026-08-25","rating":4,"title":"Underwhelmed with the choice of shirt","text":"Underwhelmed with the choice of shirt, but it was quick and I did love the element of jeopardy. Shirt was good quality and very unique Looking forward to receiving my next order.","topics":["football","quality","subscription"]},
-    {"id":"r056","name":"Lee Walker","country":"GB","date":"2026-08-07","rating":4,"title":"Easy to order and shirt is…class","text":"Easy to order and shirt is wicked…slight delay in arriving but that wasnt due to the company Quality is top notch","topics":["football","quality"]},
-    {"id":"r057","name":"Kevin Hailstone","country":"GB","date":"2026-05-31","rating":4,"title":"Well worth the subscription","text":"7 shirts so far and all have been great. Only issue was that one wasn't on the ordered size, although that got sorted out without hassle. I hadn't heard of any of the clubs I've had so far which is great. But would like a big name occasionally!","topics":["football","subscription","exchange"]},
-    {"id":"r058","name":"MR COSGROVE","country":"GB","date":"2026-05-27","rating":4,"title":"Great quality top","text":"Great quality top. Delivered quickly.","topics":["football","quality","delivery"]},
-    {"id":"r059","name":"customer","country":"GB","date":"2026-04-29","rating":4,"title":"It's important that you won't know what shirt you will get!...","text":"Simple and effective order processing and quality of shirt is what I expected. Easy return and no quibble when I had ordered a shirt that was a little tight so asked for a larger one and they just did that! I had one size up to fit me comfortably!","topics":["football","exchange","quality"]},
-    {"id":"r060","name":"Kris Atkinson","country":"GB","date":"2026-04-02","rating":4,"title":"Shirt arrived promptly","text":"Shirt arrived promptly, club was a little niche even for my son's broad tastes but is original and of good quality","topics":["football","gift","quality","delivery"]},
-    {"id":"r061","name":"shane dunne","country":"IE","date":"2026-03-23","rating":4,"title":"Great overall Experience","text":"I have ordered from shirt in a box many times now. I think the service and business they have is wonderful. The shirts have always appeared to be lovely and great quality and packaged well. the subscription model is great. When ordering over Christmas time my order did take a couple of weeks to arrive which is why I haven't rated it 5 stars but overall I have had a a good experience with the business.","topics":["football","subscription","quality"]},
-    {"id":"r062","name":"Charlie","country":"GB","date":"2026-03-23","rating":4,"title":"Another great football top","text":"Another great football top. I do enjoy find out more about the team that the top belongs to.","topics":["football","subscription"]}
+    {
+      "id": "r0001",
+      "name": "Bryan Allan",
+      "country": "GB",
+      "date": "2026-09-01",
+      "rating": 5,
+      "title": "Actually forgot to put my preferences…",
+      "text": "Actually forgot to put my preferences on my order for my young son. Sent an email and it was added to my order immediately. Received a shirt for him and for me. Met the criteria we specified and came right out of left field. Real mystery shirts we definitely would've have bought otherwise and good quality too. No issues at all. Great service.",
+      "topics": [
+        "football",
+        "service",
+        "gift",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0002",
+      "name": "PeterCurry",
+      "country": "NL",
+      "date": "2026-09-01",
+      "rating": 5,
+      "title": "Really nice strip from southern Italy",
+      "text": "Really nice strip from southern Italy. Never heard of the Wilders but quality strip.",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0003",
+      "name": "customer",
+      "country": "US",
+      "date": "2026-08-31",
+      "rating": 5,
+      "title": "Customer service was quick and…",
+      "text": "Customer service was quick and responsive. Can't complain, i noticed when i went to order, i had 3 things, which i saw that i had two shirts rhen tve free one, so i deleted one, and noticed after confirming it was a small, which no way in hell i could ever wear it, so i emailed hoping they could change it, and in a flash it was corrected, i think its shipped. So Customer service is easily the best ive had the pleasure of dealing with, they made it extremely easy",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0004",
+      "name": "Michael Canning",
+      "country": "GB",
+      "date": "2026-08-31",
+      "rating": 5,
+      "title": "Great product and service",
+      "text": "Great product, timely and hassle free order and delivery. Looking forward to my next shirt. An easy 5⭐ review.",
+      "topics": [
+        "football",
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0005",
+      "name": "Andrew Brown",
+      "country": "GB",
+      "date": "2026-08-27",
+      "rating": 5,
+      "title": "OK random team delivered but good!",
+      "text": "OK random team delivered, but shirt was of high quality and it fit, not a miserable size for a change, will continue with subscription as it was a good shirt, some random Italian team, but i hope that some of the money will filter down to them! Impressed!",
+      "topics": [
+        "football",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0006",
+      "name": "Jade Henry",
+      "country": "GB",
+      "date": "2026-08-27",
+      "rating": 4,
+      "title": "Box arrived quick and the excitment was…",
+      "text": "Box arrived quick and the excitment was high, to see what shirt i recieved, as a larger man i was expecting some fitting issues even though i had selected 5xl, the shirt that came an australian lower league teams kit was nice but the fit was tight. already aticipating the next short and hoping for a better fit, overall experiance was excellent.",
+      "topics": [
+        "football",
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0007",
+      "name": "scott currie",
+      "country": "GB",
+      "date": "2026-08-27",
+      "rating": 5,
+      "title": "Quick delivery",
+      "text": "Arrived quickly after ordering but it was too small(my fault). Exchange process was simple and the replacement turned up in a week. Was an Indian team shirt that I'm sure I had excluded when picking the 3 countries I didn't want, but I must say it looks pretty good so will keep it anyway and will be happy to stay subscribed.",
+      "topics": [
+        "football",
+        "delivery",
+        "exchange",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0008",
+      "name": "David Hanna",
+      "country": "GB",
+      "date": "2026-08-26",
+      "rating": 5,
+      "title": "Fantastic top and love the quality of…",
+      "text": "Fantastic top and love the quality of it!",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0009",
+      "name": "Chris Carmichael",
+      "country": "GB",
+      "date": "2026-08-25",
+      "rating": 4,
+      "title": "Underwhelmed with the choice of shirt",
+      "text": "Underwhelmed with the choice of shirt, but it was quick and I did love the element of jeopardy. Shirt was good quality and very unique Looking forward to receiving my next order.",
+      "topics": [
+        "football",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0010",
+      "name": "Justin Kimber",
+      "country": "GB",
+      "date": "2026-08-25",
+      "rating": 5,
+      "title": "Excellent and shirt came quickly.",
+      "text": "Excellent and shirt came quickly. Leona online was very helpful too with my questions 👍",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0011",
+      "name": "Simon Howard",
+      "country": "IE",
+      "date": "2026-08-25",
+      "rating": 5,
+      "title": "Loved the jerseys we got",
+      "text": "Loved the jerseys we got, really nice and great quality",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0012",
+      "name": "customer",
+      "country": "US",
+      "date": "2026-08-24",
+      "rating": 5,
+      "title": "I had an extremely nuanced situation",
+      "text": "I had an extremely nuanced situation and Leona was able to get everything changed for me and now I cannot wait for an influx of new kits plus the World Cup framed piece.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0013",
+      "name": "graham McLachlan",
+      "country": "GB",
+      "date": "2026-08-23",
+      "rating": 5,
+      "title": "Easy app to download and use first…",
+      "text": "Easy app to download and use first class tops very quick delivery thank you",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0014",
+      "name": "Lee Walker",
+      "country": "GB",
+      "date": "2026-08-22",
+      "rating": 5,
+      "title": "Quality products and fast delivery",
+      "text": "Quality products and fast delivery. Also really quick at responding to queries",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0015",
+      "name": "Peter Duignan",
+      "country": "IE",
+      "date": "2026-08-20",
+      "rating": 5,
+      "title": "Good quality jerseys",
+      "text": "I really like the concept. Jerseys are small fitting but once you have your size, you are away with it. I have had three of them now. I received a jersey that i did not like so i got it exchanged. Customer support was prompt.",
+      "topics": [
+        "football",
+        "quality",
+        "exchange",
+        "service",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0016",
+      "name": "Yasmin Stefanov-King",
+      "country": "GB",
+      "date": "2026-08-19",
+      "rating": 5,
+      "title": "Flipping AWESOME (And yes, I know I am shouting!)",
+      "text": "The speed of delivery is crazy fast! I thought it would be up to a week, but they came through within 48 hours. The shirts are great, and the joy is the fact they are coming from all over the world - which then means my youngest goes off to research that area. It has meant they now want to visit all the places the shirts are from, but hey, we can live with this! I have read reviews where people have said \"I'm not paying that much for some team I don't know\" - Really? Because these are still cheaper than the shirts for our local non-professional team, and we have a lot of those! If you are really narrow minded and ONLY want shirts for YOUR team, then no, this is not for you. BUT, if you love rugby, and want to see how it is done in the rest of the world, plus have an excuse to build your collection and knowledge of obscure and wonderful teams, then this is the thing for you. And let's be honest, who DOESN'T want a gift every month!?",
+      "topics": [
+        "rugby",
+        "delivery",
+        "gift",
+        "value",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0017",
+      "name": "Christopher",
+      "country": "GB",
+      "date": "2026-08-18",
+      "rating": 5,
+      "title": "Great helpful prompt service",
+      "text": "Great helpful prompt service. Resolved my problem so quick and very polite",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0018",
+      "name": "kelvin clark",
+      "country": "GB",
+      "date": "2026-08-17",
+      "rating": 5,
+      "title": "Apart from the product being top notch",
+      "text": "Apart from the product being top notch, even for us fat lad rugby players, customer service was prompt, friendly, and had a sense of humour. No more spending hours trawling through eBay to find a shirt I like only to find its an xxs. Woohoo.",
+      "topics": [
+        "rugby",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0019",
+      "name": "Mark Andrew",
+      "country": "GB",
+      "date": "2026-08-17",
+      "rating": 5,
+      "title": "Love shirt,prompt delivery and good…",
+      "text": "Love shirt,prompt delivery and good price would definitely recommend",
+      "topics": [
+        "football",
+        "delivery",
+        "value"
+      ]
+    },
+    {
+      "id": "r0020",
+      "name": "customer",
+      "country": "US",
+      "date": "2026-08-16",
+      "rating": 5,
+      "title": "Yes sometimes US Large takes forever to…",
+      "text": "Yes sometimes US Large takes forever to arrive but every single box I have ever gotten it is an amazingly cool jersey and the little tie bit section explaining the team is always entertaining.",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0021",
+      "name": "Stuart Preece",
+      "country": "GB",
+      "date": "2026-08-16",
+      "rating": 5,
+      "title": "I had a sizing issue and emailed a lady…",
+      "text": "I had a sizing issue and emailed a lady called Leona on a Sunday afternoon - she came back to me within an hour and has been excellent",
+      "topics": [
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0022",
+      "name": "John Cracknell",
+      "country": "GB",
+      "date": "2026-08-14",
+      "rating": 5,
+      "title": "Very Impressed.",
+      "text": "I am very impressed with Mysteryshirtinabox. I have opted for the rugby shirts. To date I have had two deliveries and I have not been disappointed. The shirts are good quality and the clubs to date have been wonderfully obscure! Their communication is excellent and I get a new shirt every three months. When we moved house, even the change of address was not and issue.",
+      "topics": [
+        "rugby",
+        "quality",
+        "subscription",
+        "service"
+      ]
+    },
+    {
+      "id": "r0023",
+      "name": "Michael Harrison",
+      "country": "IE",
+      "date": "2026-08-14",
+      "rating": 5,
+      "title": "Excellent concept",
+      "text": "Excellent concept, loved the shirt",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0024",
+      "name": "Mr",
+      "country": "GB",
+      "date": "2026-08-14",
+      "rating": 5,
+      "title": "I started a subscription",
+      "text": "I started a subscription, received my first shirt, it's random which is what I was looking for, the size is what I asked for but it's a bit large, depends on the cut I guess. Will be keeping my subscription just now and look forward to my next one.",
+      "topics": [
+        "football",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0025",
+      "name": "Alex",
+      "country": "GB",
+      "date": "2026-08-13",
+      "rating": 5,
+      "title": "Chest Size",
+      "text": "I've had two orders delivered now and they have both been brilliant. I think if you could add in your chest size as opposed to the size, it could avoid any disappointment as sizes vary between manufacturers. Other than that, the service and quality of the tops has been fantastic.",
+      "topics": [
+        "football",
+        "quality",
+        "service"
+      ]
+    },
+    {
+      "id": "r0026",
+      "name": "Raymond",
+      "country": "GB",
+      "date": "2026-08-13",
+      "rating": 5,
+      "title": "I found your response to my question…",
+      "text": "I found your response to my question was quick and very professional. You were very helpful and went out of your way, thankyou.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0027",
+      "name": "Scott Pierce",
+      "country": "GB",
+      "date": "2026-08-13",
+      "rating": 5,
+      "title": "I love it..",
+      "text": "I love the whole idea of shirt in a box.. I love my first shirt and cannot wait for the next one. I am a football fan and a fan of kits in general so unlikely to be disappointed. It's a commitment but a fun one.",
+      "topics": [
+        "football",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0028",
+      "name": "Renan Ramirez",
+      "country": "US",
+      "date": "2026-08-11",
+      "rating": 5,
+      "title": "Love these guys",
+      "text": "Love these guys! Great service and quality shirts! They were very helpful and flexible!!!",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0029",
+      "name": "Tim",
+      "country": "GB",
+      "date": "2026-08-11",
+      "rating": 5,
+      "title": "Great item as usual",
+      "text": "Great item as usual. Getting loads of interest when I wear them out. Can't wait for the next one!!👍⚽",
+      "topics": [
+        "football",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0030",
+      "name": "James Reilly",
+      "country": "GB",
+      "date": "2026-08-08",
+      "rating": 5,
+      "title": "Can not criticise in any way Good job!",
+      "text": "Can not criticise in any way. Good service. No problem with returns. Happy to endorse. And the tops are belters.",
+      "topics": [
+        "football",
+        "exchange",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0031",
+      "name": "Joanne Ford",
+      "country": "GB",
+      "date": "2026-08-08",
+      "rating": 5,
+      "title": "Have to say delighted with these guys",
+      "text": "Have to say delighted with these guys! Responded quickly to my query and a resolution was virtually instant! Will happily buy form them!",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0032",
+      "name": "Neil Hunter-Hall",
+      "country": "GB",
+      "date": "2026-08-08",
+      "rating": 5,
+      "title": "I got the San Francisco City shirt and…",
+      "text": "I got the San Francisco City shirt and it's amazing, the quality and details on this shirt is fantastic",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0033",
+      "name": "there",
+      "country": "GB",
+      "date": "2026-08-08",
+      "rating": 5,
+      "title": "Second Shirt",
+      "text": "Although the delivery was delayed, they did everything possible to get my delivery back on track. Delighted with the Guyana 2nd shirt, great fit and very striking colours and design. Very happy with both shirts so far.",
+      "topics": [
+        "football",
+        "quality",
+        "service"
+      ]
+    },
+    {
+      "id": "r0034",
+      "name": "Alex Jex",
+      "country": "GB",
+      "date": "2026-08-07",
+      "rating": 5,
+      "title": "Bang on",
+      "text": "Bang on, shirts are nice, fresh, legit. Had a delay on a shirt, chased it up got a reply next day with tracking details, turned up that day anyway. Bosh.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "legit"
+      ]
+    },
+    {
+      "id": "r0035",
+      "name": "Lee Walker",
+      "country": "GB",
+      "date": "2026-08-07",
+      "rating": 4,
+      "title": "Easy to order and shirt is…class",
+      "text": "Easy to order and shirt is wicked…slight delay in arriving but that wasnt due to the company Quality is top notch",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0036",
+      "name": "Terry Dale",
+      "country": "GB",
+      "date": "2026-08-07",
+      "rating": 5,
+      "title": "I don't get the angst.",
+      "text": "I don't get the angst. It's a football shirt! No tracking number for my latest delivery, took about 30 minutes to sort and it's out for delivery. So clearly a post office issue. I'm very happy",
+      "topics": [
+        "football",
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0037",
+      "name": "Sunny",
+      "country": "NZ",
+      "date": "2026-08-06",
+      "rating": 5,
+      "title": "Great Service",
+      "text": "Sick jerseys, if you want niche jerseys, highly recommend. Also, their customer support is really quick with responses. Will definitely reorder, maybe even consider subscribing.",
+      "topics": [
+        "football",
+        "service"
+      ]
+    },
+    {
+      "id": "r0038",
+      "name": "customer",
+      "country": "GB",
+      "date": "2026-08-05",
+      "rating": 5,
+      "title": "Great present",
+      "text": "Fast delivery, A present for a son in law and he was delighted, a great suprise.",
+      "topics": [
+        "gift",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0039",
+      "name": "Denis O brien",
+      "country": "IE",
+      "date": "2026-08-05",
+      "rating": 5,
+      "title": "I received my jersey quicker than…",
+      "text": "I received my jersey quicker than expected and it didn't disappoint, I received the guyana away shirt which has been a conversation starter whereever I go, looking forward to the next one already",
+      "topics": [
+        "football",
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0040",
+      "name": "Sean",
+      "country": "AU",
+      "date": "2026-08-05",
+      "rating": 5,
+      "title": "I decided to give Mystery Shirt in a…",
+      "text": "I decided to give Mystery Shirt in a Box a go and im really happy i did. The whole experience so far has been a good one, i had some questions and the customer service team where really quick to reply and where really helpful. I live in Australia so had to wait a little while for my shirt to get here but im really happy with the quality of what i received. My first shirt was the Guyana National Teams away shirt and i really like it, its a team absolutely no one here would have heard of and i really like the uniqueness of the item. Im very much looking forward to the next one!.",
+      "topics": [
+        "football",
+        "quality",
+        "service"
+      ]
+    },
+    {
+      "id": "r0041",
+      "name": "gillies herd",
+      "country": "GB",
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "I have a subscription with Mystery…",
+      "text": "I have a subscription with Mystery Jersey and have been very satisfied with the choice of shirts sent, the fit and the delivery. Very happy so far",
+      "topics": [
+        "subscription",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0042",
+      "name": "John Mc Cool",
+      "country": "GB",
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "The Shirts are brilliant",
+      "text": "The Shirts are brilliant. I have ow had 13 shirts from them and recommend the service to anyone and everyone. Picking out the shirt from their end can delay it sometimes but thats nothing to worry about. Just a fantastic product, I wear mine continously and they have made me start collecting Jerseys again. Having the various options to set who you dont want ensures you aren't disappointed with your teams rivals.",
+      "topics": [
+        "football",
+        "subscription",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0043",
+      "name": "Martyn Dawson",
+      "country": "GB",
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "Very happy with my first shirt",
+      "text": "Very happy with my first shirt. 👌🏼",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0044",
+      "name": "MrDavidPhi",
+      "country": "GB",
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "Great shirt arrived on time couldn't…",
+      "text": "Great shirt arrived on time couldn't ask for more",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0045",
+      "name": "David Littler",
+      "country": "GB",
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "Great looking shirt and a nice touch…",
+      "text": "Great looking shirt and a nice touch that the club was formed in my birth year. Looking forward to the next one.",
+      "topics": [
+        "football",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0046",
+      "name": "Miss Tracy Parker",
+      "country": "GB",
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "First class customer service …",
+      "text": "For some reason my subscription didn't show on the system, I've never known customer service as good. Within a couple of hrs it had been sorted and my first box is on the way. The customer service is second to none",
+      "topics": [
+        "service",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0047",
+      "name": "Paul Cooper",
+      "country": "GB",
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "Pricing strategy on point",
+      "text": "The pricing is really good and I like the mystery of what shirt you may get from around the world and not knowing until you open the box. I decided to sign up due to the pricing as you can't get club or national shirts for this price so i may pick up a shirt for a club i follow for half of the normal price",
+      "topics": [
+        "football",
+        "value",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0048",
+      "name": "Anna Paulsson-Habegger",
+      "country": "GB",
+      "date": "2026-07-27",
+      "rating": 5,
+      "title": "Abs love this.",
+      "text": "Abs love this. Any issues they sort it ASAP. Had to return due to size but within a week we had a new shirt.Service or what. Highly recommend",
+      "topics": [
+        "exchange",
+        "service"
+      ]
+    },
+    {
+      "id": "r0049",
+      "name": "John Graham",
+      "country": "GB",
+      "date": "2026-07-24",
+      "rating": 5,
+      "title": "Excellent customer service",
+      "text": "The service I received from mystery shirt in a box was first class, really looking to building my collection from leagues all around the world",
+      "topics": [
+        "service",
+        "football"
+      ]
+    },
+    {
+      "id": "r0050",
+      "name": "Nikki",
+      "country": "GB",
+      "date": "2026-07-23",
+      "rating": 5,
+      "title": "Wanted the size changed on my order…",
+      "text": "Wanted the size changed on my order after I'd seen that the money had been taken for it, my issue, not theirs. I didn't message until late in the evening, the reply was pretty immediate as was the resolution the issue. Absolutely fantastic.",
+      "topics": [
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0051",
+      "name": "Joel Thorpe",
+      "country": "GB",
+      "date": "2026-07-19",
+      "rating": 5,
+      "title": "I always enjoy receiving a shirt from…",
+      "text": "I always enjoy receiving a shirt from you guys. Thanks, Joel",
+      "topics": [
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0052",
+      "name": "Lawrence Thorpe",
+      "country": "NZ",
+      "date": "2026-07-17",
+      "rating": 5,
+      "title": "Really good after sale service",
+      "text": "Really good after sale service, always getting back to you on an enquiry.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0053",
+      "name": "Lochie",
+      "country": "AU",
+      "date": "2026-07-15",
+      "rating": 5,
+      "title": "Loved the shirt they first gave me",
+      "text": "Loved the shirt they first gave me. Have ordered a monthly sub!! I had a question and they responded to me the same day. Good customer service",
+      "topics": [
+        "football",
+        "subscription",
+        "service"
+      ]
+    },
+    {
+      "id": "r0054",
+      "name": "Adam",
+      "country": "GB",
+      "date": "2026-07-06",
+      "rating": 5,
+      "title": "Nice a quick process",
+      "text": "Nice a quick process, ordered Thursday, received monday. Lovely crotone 2022/23 third top, will definitely order again",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0055",
+      "name": "Andrew Dsouza",
+      "country": "GB",
+      "date": "2026-07-06",
+      "rating": 5,
+      "title": "Excellent service and first shirt was grwat",
+      "text": "Excellent service and first shirt was great love that you can pick which countries you don't want as I am from UK didn't want UK shirts can't wait till next month , it's like Christmas 😁",
+      "topics": [
+        "football",
+        "subscription",
+        "service"
+      ]
+    },
+    {
+      "id": "r0056",
+      "name": "graham McLachlan",
+      "country": "GB",
+      "date": "2026-06-30",
+      "rating": 5,
+      "title": "Great service and product can't wait…",
+      "text": "Great service and product can't wait for my next football top",
+      "topics": [
+        "football",
+        "service"
+      ]
+    },
+    {
+      "id": "r0057",
+      "name": "Christopher Morgan",
+      "country": "GB",
+      "date": "2026-06-29",
+      "rating": 5,
+      "title": "Great product",
+      "text": "Although awaiting an exchange for a larger size, my fault, seems to have put on a few pounds, it was a nice surprise to receive a shirt from a lesser known team from Africa. Will definitely be ordering again",
+      "topics": [
+        "football",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0058",
+      "name": "Belle Mcclenaghan",
+      "country": "GB",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Omg the besttttt",
+      "text": "Omg, the only subscription i acc love!! Recommend to anyone for any occasion⭐️👏",
+      "topics": [
+        "subscription",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0059",
+      "name": "Conan Flynn",
+      "country": "GB",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Absolutely great service",
+      "text": "Absolutely great service, got this for my 2 boys for their birthdays and had an amazing time. Highly recommend!",
+      "topics": [
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0060",
+      "name": "David",
+      "country": "US",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Saw there ads all the time and decided…",
+      "text": "Saw there ads all the time and decided to bite the bullet. Shirt came quickly and it was a Columbia shirt. Fantastic and will order again.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0061",
+      "name": "Faye Egan",
+      "country": "IE",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Good atmosphere and close to grand…",
+      "text": "Good atmosphere and close to grand central",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0062",
+      "name": "J Maguire",
+      "country": "GB",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Great concept amazing shirts",
+      "text": "Great concept amazing shirts",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0063",
+      "name": "Nicholas Grant",
+      "country": "GB",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Arrived promptly and met my criteria",
+      "text": "Arrived promptly and met my criteria. Subscribed to monthly purchases as it worked out cheaper. Would throughly recommend you buy",
+      "topics": [
+        "delivery",
+        "subscription",
+        "value"
+      ]
+    },
+    {
+      "id": "r0064",
+      "name": "Noah Hawkins",
+      "country": "IE",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Absoltely brilliant",
+      "text": "Absoltely brilliant",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0065",
+      "name": "Tom Purnell",
+      "country": "GB",
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Great quality shirts and events!",
+      "text": "Great quality shirts and events!",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0066",
+      "name": "stuart sylvester",
+      "country": "IE",
+      "date": "2026-06-16",
+      "rating": 5,
+      "title": "Brilliant firm to deal with",
+      "text": "Brilliant firm to deal with, 2nd order for my son and he was absolutely delighted with the jersey he got",
+      "topics": [
+        "football",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0067",
+      "name": "Basilio Salveta",
+      "country": "IE",
+      "date": "2026-06-10",
+      "rating": 5,
+      "title": "Fantastic quality and unique jerseys…",
+      "text": "Fantastic quality and unique jerseys that I would have never picked myself but actually really like.",
+      "topics": [
+        "football",
+        "quality",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0068",
+      "name": "Glen Sloman",
+      "country": "GB",
+      "date": "2026-06-07",
+      "rating": 5,
+      "title": "Cracking shirt as usual",
+      "text": "Cracking shirt as usual, great quality, speedy delivery",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0069",
+      "name": "Iain Blaxall",
+      "country": "GB",
+      "date": "2026-06-07",
+      "rating": 5,
+      "title": "I had a quite unique shirt from Italy…",
+      "text": "I had a quite unique shirt from Italy delivered in just 2 days. Fantastic value and service. I will be the envy of all my friends when I wear it at Twickenham for the Prem Final.",
+      "topics": [
+        "delivery",
+        "service",
+        "value",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0070",
+      "name": "Kevin Long",
+      "country": "IE",
+      "date": "2026-06-02",
+      "rating": 5,
+      "title": "Excellent experience.Super fast…",
+      "text": "Excellent experience.Super fast delivery.Great to deal with!5*",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0071",
+      "name": "Tilly Hodgson",
+      "country": "GB",
+      "date": "2026-06-02",
+      "rating": 5,
+      "title": "Excellent shirt",
+      "text": "Excellent shirt, great quality love the info card that comes with it.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0072",
+      "name": "Am's",
+      "country": "GB",
+      "date": "2026-06-01",
+      "rating": 5,
+      "title": "Great company",
+      "text": "Great company , never let me down , followed my requests in terms of sizing etc . Delivery prompt too",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0073",
+      "name": "Kevin Hailstone",
+      "country": "GB",
+      "date": "2026-05-31",
+      "rating": 4,
+      "title": "Well worth the subscription",
+      "text": "7 shirts so far and all have been great. Only issue was that one wasn't on the ordered size, although that got sorted out without hassle. I hadn't heard of any of the clubs I've had so far which is great. But would like a big name occasionally!",
+      "topics": [
+        "football",
+        "subscription",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0074",
+      "name": "Patrick McGuigan",
+      "country": "GB",
+      "date": "2026-05-29",
+      "rating": 5,
+      "title": "Great experience from beginning to end",
+      "text": "Great experience from beginning to end.Easy ordering process from the company website, jersey when it arrived was prefect and was a massive surprise as it was a jersey I'd have never picked myself in a million years (hence the name of the company I suppose lol) and very fast delivery.Over all 10/10 and will buy again.",
+      "topics": [
+        "football",
+        "delivery",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0075",
+      "name": "Robert Brown",
+      "country": "GB",
+      "date": "2026-05-28",
+      "rating": 5,
+      "title": "Lovey vibrant colours",
+      "text": "Lovey vibrant colours",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0076",
+      "name": "Allan T",
+      "country": "GB",
+      "date": "2026-05-27",
+      "rating": 5,
+      "title": "Another great shirt!",
+      "text": "Something to look forward to every 3 months... and again a great shirt!! Top Quality and obscure as you like! Well done to the shirt picker!",
+      "topics": [
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0077",
+      "name": "MR COSGROVE",
+      "country": "GB",
+      "date": "2026-05-27",
+      "rating": 4,
+      "title": "Great quality top",
+      "text": "Great quality top. Delivered quickly.",
+      "topics": [
+        "football",
+        "quality",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0078",
+      "name": "Siobhan",
+      "country": "IE",
+      "date": "2026-05-27",
+      "rating": 5,
+      "title": "Fast delivery",
+      "text": "Fast delivery. My son was delighted with the jersey selected and great quality. I will purchase again and highly recommend.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0079",
+      "name": "Jack",
+      "country": "GB",
+      "date": "2026-05-26",
+      "rating": 5,
+      "title": "SUPER HAPPY CUSTOMER",
+      "text": "Great customer service and communication throughout. I sent my first shirt back due to selecting the wrong size online. A return proccess and I had my new shirt within a week.Would 100% recommend to anyone for a great experience and great quality football shirt! :)",
+      "topics": [
+        "football",
+        "service",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0080",
+      "name": "Alex Field",
+      "country": "GB",
+      "date": "2026-05-25",
+      "rating": 5,
+      "title": "Great shirt from an Italian 2nd div…",
+      "text": "Great shirt from an Italian 2nd div team",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0081",
+      "name": "NUNO RODRIGUES",
+      "country": "PT",
+      "date": "2026-05-25",
+      "rating": 5,
+      "title": "Amazing quality",
+      "text": "Amazing quality",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0082",
+      "name": "Alan Davis",
+      "country": "GB",
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "Great customer service",
+      "text": "I received a large size shirt as ordered, but compared to other tops I've had, it was way too small. The returns process was easy to follow, and the customer service was brilliant. I received a swap XL which although not as colourful as the original, was quirky and unusual. The suprise element of getting a random shirt is just brilliant.",
+      "topics": [
+        "service",
+        "exchange",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0083",
+      "name": "Emma Howard",
+      "country": "GB",
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "Grand",
+      "text": "Good quality shirts each month. My boy loves them and looks forward to each one arriving. This has become his wardrobe of choice.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0084",
+      "name": "Michael Mcelroy",
+      "country": "AU",
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "Beautiful selection of shirts",
+      "text": "Beautiful selection of shirts , very happy with the unique teams jerseys I'm collecting.",
+      "topics": [
+        "football",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0085",
+      "name": "Malcolm Reed",
+      "country": "GB",
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "Very quick delivery",
+      "text": "Very quick delivery, shame about the packaging which was opened at one end. Quality gear, a blue shirt. PUP.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0086",
+      "name": "piggle piggle",
+      "country": "GB",
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "Absolutely delighted with the tops I…",
+      "text": "Absolutely delighted with the tops I have received, now have a nice wee collection of tops from all over the world,I have around 20 tops now having got around 14/15 from mysteryshirtinabox.com  Thanks guys 👍",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0087",
+      "name": "stuart sylvester",
+      "country": "IE",
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "Can we not get a mystery jersey weekly instead of monthly",
+      "text": "Great surprise when the shirt arrived for my son who at the age of 6 is just starting to build a decent collection. His feed back was can we not get a mystery jersey weekly instead of monthly lol",
+      "topics": [
+        "football",
+        "delivery",
+        "gift",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0088",
+      "name": "Wayne Tazz Allison",
+      "country": "GB",
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "Exactly product and totally different…",
+      "text": "Exactly product and totally different from what I expected. Two shirts from teams I wouldn't have thought about buying in a shop",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0089",
+      "name": "Danielle",
+      "country": "IE",
+      "date": "2026-05-19",
+      "rating": 5,
+      "title": "Jersey is perfect with fast delivery",
+      "text": "Jersey is perfect with fast delivery",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0090",
+      "name": "Dave Kennedy",
+      "country": "GB",
+      "date": "2026-05-19",
+      "rating": 5,
+      "title": "Amazing shirt",
+      "text": "Amazing shirt and has people everywhere I go asking about it and how they can buy one.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0091",
+      "name": "Jim snell",
+      "country": "GB",
+      "date": "2026-05-19",
+      "rating": 5,
+      "title": "My second order arrived today",
+      "text": "My second order arrived today , another quality shirt . I have now subscribed for regular shirts, it's like Christmas every 2 months. 100% recommend buying this product.",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0092",
+      "name": "Kimberley Swan",
+      "country": "GB",
+      "date": "2026-05-19",
+      "rating": 5,
+      "title": "Great service and delivery time!!",
+      "text": "Great service and delivery time!!",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0093",
+      "name": "Rob Bedford",
+      "country": "GB",
+      "date": "2026-05-15",
+      "rating": 5,
+      "title": "Just what I ordered fabulous product",
+      "text": "Just what I ordered fabulous product",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0094",
+      "name": "Derek Davies",
+      "country": "GB",
+      "date": "2026-05-14",
+      "rating": 5,
+      "title": "Great shirts and Service.",
+      "text": "I have received 2 shirts now 1 Italian Serie D team and an Italian Serie B team, great shirts, great fits. Looking forward to see what shirts I get in the future, the service and quick delivery of the shirts has been excellent.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0095",
+      "name": "Sarah Keen",
+      "country": "GB",
+      "date": "2026-05-14",
+      "rating": 5,
+      "title": "Excellent customer service",
+      "text": "Excellent customer service. I made an error when ordering the shirt and didn't realise until I'd passed it on as a present. Emailed to explain and issue was resolved swiftly even though I'd taken delivery weeks before!",
+      "topics": [
+        "delivery",
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0096",
+      "name": "Andy H",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "First order came through as a small but…",
+      "text": "First order came through as a small but not sure why as I'm defo not a small!? And I'm sure I didn't choose that option but hey these things happen! Returns process was simple and clear and now just waiting for my first shirt that fits to arrive!!",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0097",
+      "name": "Craig Ryley",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "I've received 6 shirts so far,and not…",
+      "text": "I've received 6 shirts so far,and not being disappointed, service of delivery has been excellent, and details of the clubs is excellent, recommend this company, 100%",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0098",
+      "name": "Dave Kennedy",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "Inquisitive",
+      "text": "Honestly, a brilliant product yet again and so many questions from people I meet and enquire what team this shirt belongs to.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0099",
+      "name": "GARRY BEETHAM",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "Great product and excellent service!!",
+      "text": "Great product and excellent service!!",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0100",
+      "name": "gillies herd",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "I'm on my 3rd shirt",
+      "text": "I'm on my 3rd shirt, each shirt is brilliant and the fit is prefect",
+      "topics": [
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0101",
+      "name": "Maggie Dougan",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "Brilliant service and great quality shirts",
+      "text": "Very quick delivery on both items I ordered, I emailed the company re a request, they answered very quickly and accommodated my request. Shirts arrived well packaged. Both shirts were a great fit and absolutely brilliant quality. Would definitely order again",
+      "topics": [
+        "delivery",
+        "service",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0102",
+      "name": "Nicholas Grant",
+      "country": "GB",
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "Shirts are of very good quality",
+      "text": "Shirts are of very good quality. They arrive within a few days of ordering. Some really obscure teams too. My two so far both Italian. I'm on a monthly subscription and have started getting add ons with my shirt. Post cards this time. All in all a great service.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0103",
+      "name": "David John",
+      "country": "GB",
+      "date": "2026-05-12",
+      "rating": 5,
+      "title": "Great shirts recieved in each mystery…",
+      "text": "Great shirts recieved in each mystery box.",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0104",
+      "name": "Shauna Doran",
+      "country": "GB",
+      "date": "2026-05-12",
+      "rating": 5,
+      "title": "Super quick service and great quality…",
+      "text": "Super quick service and great quality shirt received",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0105",
+      "name": "Joao Mata",
+      "country": "PT",
+      "date": "2026-05-11",
+      "rating": 5,
+      "title": "Very nice shirt and socks🫡",
+      "text": "Very nice shirt and socks🫡",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0106",
+      "name": "Josh Penaluna",
+      "country": "GB",
+      "date": "2026-05-11",
+      "rating": 5,
+      "title": "Great packing and came quick",
+      "text": "Great packing and came quick",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0107",
+      "name": "Robert Farrell",
+      "country": "NZ",
+      "date": "2026-05-11",
+      "rating": 5,
+      "title": "Excellent service",
+      "text": "Excellent service, communication was fantastic and the speed of delivery was exceptional",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0108",
+      "name": "Am's",
+      "country": "GB",
+      "date": "2026-05-07",
+      "rating": 5,
+      "title": "Great service",
+      "text": "Great service, lovely shirt , correct size as specified. Prompt delivery too.",
+      "topics": [
+        "delivery",
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0109",
+      "name": "CherylHarding",
+      "country": "GB",
+      "date": "2026-05-07",
+      "rating": 5,
+      "title": "These are great gifts",
+      "text": "These are great gifts. Recipient got the DRC shirt and was absolutely delighted.",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0110",
+      "name": "customer",
+      "country": "GB",
+      "date": "2026-05-07",
+      "rating": 5,
+      "title": "A great football shirt",
+      "text": "A great football shirt, easy to order and delivery is quick",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0111",
+      "name": "Stan",
+      "country": "GB",
+      "date": "2026-05-05",
+      "rating": 5,
+      "title": "Great shirt",
+      "text": "Great shirt , delivered within days . Excellent service",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0112",
+      "name": "Dario Garbieri dariogarb",
+      "country": "IT",
+      "date": "2026-05-04",
+      "rating": 5,
+      "title": "Excellent product and outstanding customer experience",
+      "text": "I am very satisfied with both the product and the overall customer experience.\n\nThe product fully met my expectations in terms of quality and reliability. Delivery required some follow-up, but the customer support team was responsive, professional, and genuinely helpful throughout the process. They provided clear guidance and remained engaged until the issue was fully resolved.\n\nThis level of attention and commitment to customer satisfaction makes a real difference. I would definitely recommend this company and would be happy to purchase from them again.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "legit"
+      ]
+    },
+    {
+      "id": "r0113",
+      "name": "R r",
+      "country": "GB",
+      "date": "2026-05-04",
+      "rating": 5,
+      "title": "Can't complain the shirt is awesome…",
+      "text": "Can't complain the shirt is awesome fits great looks great",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0114",
+      "name": "Squeez",
+      "country": "GB",
+      "date": "2026-05-01",
+      "rating": 5,
+      "title": "Overall a good experience",
+      "text": "Jerseys are of good quality, delivery doesn't take long, you even get the privilege of extra stuff being sent along your jerseys the longer your subscription gets.\nPretty nice concept if you want to start a collection or even just find new teams.\nThe little card with curiositys and history of the club is also a nice touch.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0115",
+      "name": "customer",
+      "country": "GB",
+      "date": "2026-04-29",
+      "rating": 4,
+      "title": "It's important that you won't know what shirt you will get!...",
+      "text": "Simple and effective order processing and quality of shirt is what I expected. Easy return and no quibble when I had ordered a shirt that was a little tight so asked for a larger one and they just did that! I had one size up to fit me comfortably!",
+      "topics": [
+        "football",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0116",
+      "name": "Two of us",
+      "country": "GB",
+      "date": "2026-04-29",
+      "rating": 5,
+      "title": "Brilliant product",
+      "text": "Brilliant product. Superb quality and the customer service department were excellent in sorting out a problem I had with a change of circumstance. Would 100% recommend",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0117",
+      "name": "NUNO RODRIGUES",
+      "country": "PT",
+      "date": "2026-04-28",
+      "rating": 5,
+      "title": "Amazing quality",
+      "text": "Amazing quality, loved the 3x a5 prints, delivered home in a 2-3 days🤩",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0118",
+      "name": "Daria Wazna",
+      "country": "GB",
+      "date": "2026-04-27",
+      "rating": 5,
+      "title": "Great service & shirts",
+      "text": "Great service & shirts",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0119",
+      "name": "Noel Templor",
+      "country": "GB",
+      "date": "2026-04-27",
+      "rating": 5,
+      "title": "Have had 4 delivered now and they have…",
+      "text": "Have had 4 delivered now and they have been all good quality shirts from.around the world which my son loves. Definitely get a buzz when the package lands to.see what we have got. Not had any issues with them at all.",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0120",
+      "name": "Marty Dalzell",
+      "country": "GB",
+      "date": "2026-04-23",
+      "rating": 5,
+      "title": "Very quick and my son was delighted…",
+      "text": "Very quick and my son was delighted with his top (Italian 3rd tier team). One we would never have gotten of not for mystery shirt in a box",
+      "topics": [
+        "delivery",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0121",
+      "name": "customer",
+      "country": "GB",
+      "date": "2026-04-22",
+      "rating": 5,
+      "title": "Excellent idea and great fun waiting to…",
+      "text": "Excellent idea and great fun waiting to see what shirt you get",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0122",
+      "name": "Luke Mason",
+      "country": "IE",
+      "date": "2026-04-22",
+      "rating": 5,
+      "title": "Great quality and amazing delivery…",
+      "text": "Great quality and amazing delivery service",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0123",
+      "name": "william mccabe",
+      "country": "GB",
+      "date": "2026-04-22",
+      "rating": 5,
+      "title": "Brilliant shirts great selection",
+      "text": "Brilliant shirts great selection",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0124",
+      "name": "Owen",
+      "country": "GB",
+      "date": "2026-04-20",
+      "rating": 5,
+      "title": "Fantastic shirt",
+      "text": "Fantastic shirt, fast delivery, my son was delighted with the selection",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0125",
+      "name": "CHRISTOPHER POWELL",
+      "country": "GB",
+      "date": "2026-04-15",
+      "rating": 5,
+      "title": "Excellent customer service",
+      "text": "Excellent customer service, first shirt was too small and had no problem sending it back for a replacement. Says everything about the quality of service and product was excellent 👌",
+      "topics": [
+        "service",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0126",
+      "name": "Danny Molloy",
+      "country": "IE",
+      "date": "2026-04-15",
+      "rating": 5,
+      "title": "Great service haven't had a…",
+      "text": "Great service haven't had a disappointing order yet",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0127",
+      "name": "Lisa",
+      "country": "GB",
+      "date": "2026-04-15",
+      "rating": 5,
+      "title": "Great shirt",
+      "text": "Great shirt, my boy loves it and loves that its different. Super speedy delivery too.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0128",
+      "name": "Claire Conlon",
+      "country": "IE",
+      "date": "2026-04-14",
+      "rating": 5,
+      "title": "Great service",
+      "text": "Great service , jerseys are good quality .",
+      "topics": [
+        "football",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0129",
+      "name": "R Harrison",
+      "country": "GB",
+      "date": "2026-04-14",
+      "rating": 5,
+      "title": "Excellent service and value",
+      "text": "Excellent service and value",
+      "topics": [
+        "service",
+        "value"
+      ]
+    },
+    {
+      "id": "r0130",
+      "name": "customer",
+      "country": "IE",
+      "date": "2026-04-13",
+      "rating": 5,
+      "title": "The jersey are fabulous",
+      "text": "The jersey are fabulous. My daughter loves the unexpected and has received wonderful compliments on the jersey she received last month.",
+      "topics": [
+        "football",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0131",
+      "name": "Isabelle Martin-Evans",
+      "country": "GB",
+      "date": "2026-04-13",
+      "rating": 5,
+      "title": "Great company and great service!",
+      "text": "Great company and great service!  Shipped quickly and well packaged as always! Couldn't be happier!",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0132",
+      "name": "John Mc Cool",
+      "country": "GB",
+      "date": "2026-04-10",
+      "rating": 5,
+      "title": "Quality items.",
+      "text": "The Shirt is highest quality, delivered very quickly. I have ordered several from these guys and whoever chooses the shirts has great eye. Can't recommend enough.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0133",
+      "name": "Shane",
+      "country": "IE",
+      "date": "2026-04-10",
+      "rating": 5,
+      "title": "Best in the business at supplying…",
+      "text": "Best in the business at supplying shirts u would never get in shops",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0134",
+      "name": "Connor Hibbard",
+      "country": "GB",
+      "date": "2026-04-09",
+      "rating": 5,
+      "title": "Cheers for the recent delivery",
+      "text": "Cheers for the recent delivery",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0135",
+      "name": "David Addison",
+      "country": "GB",
+      "date": "2026-04-09",
+      "rating": 5,
+      "title": "Its fun and quirky to get unusual…",
+      "text": "Its fun and quirky to get unusual shirts, would be good to get some more famous teams once in a while and not just obscure ones",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0136",
+      "name": "david barry",
+      "country": "IE",
+      "date": "2026-04-07",
+      "rating": 5,
+      "title": "5 stars",
+      "text": "Good quality and never any issues.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0137",
+      "name": "Edwin",
+      "country": "GB",
+      "date": "2026-04-07",
+      "rating": 5,
+      "title": "Great shirt and amazing to get info…",
+      "text": "Great shirt and amazing to get info about the team as not one I knew about",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0138",
+      "name": "James Delea",
+      "country": "IE",
+      "date": "2026-04-06",
+      "rating": 5,
+      "title": "Fast and quick delivery",
+      "text": "Fast and quick delivery",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0139",
+      "name": "Paul Gist",
+      "country": "AU",
+      "date": "2026-04-06",
+      "rating": 5,
+      "title": "Simple process and quick delivery",
+      "text": "Simple process and quick det",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0140",
+      "name": "Emrys Price",
+      "country": "GB",
+      "date": "2026-04-03",
+      "rating": 5,
+      "title": "Always great to open the box not…",
+      "text": "Always great to open the box not knowing what shirt you're going to get. Other then going to India or Mexico or anywhere else, would you get these shirts. Great for football shirt collectors, weather your just starting out or have a big collection already",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0141",
+      "name": "Sean Hogan",
+      "country": "IE",
+      "date": "2026-04-03",
+      "rating": 5,
+      "title": "Very good idea",
+      "text": "Very good idea. Happy with the result",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0142",
+      "name": "Tom Page",
+      "country": "GB",
+      "date": "2026-04-03",
+      "rating": 5,
+      "title": "Nice shirt brilliant company",
+      "text": "Nice shirt brilliant company",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0143",
+      "name": "Kris Atkinson",
+      "country": "GB",
+      "date": "2026-04-02",
+      "rating": 4,
+      "title": "Shirt arrived promptly",
+      "text": "Shirt arrived promptly, club was a little niche even for my son's broad tastes but is original and of good quality",
+      "topics": [
+        "football",
+        "gift",
+        "quality",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0144",
+      "name": "Pat85",
+      "country": "GB",
+      "date": "2026-03-31",
+      "rating": 5,
+      "title": "Great Gift Idea",
+      "text": "Absolutely love this idea, would never have guessed in a million years what shirt i would open up to.",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0145",
+      "name": "Chris Lane",
+      "country": "GB",
+      "date": "2026-03-30",
+      "rating": 5,
+      "title": "Fantastic shirt",
+      "text": "Fantastic shirt, really good quality and something a little different. I would highly recommend",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0146",
+      "name": "Robert Brown",
+      "country": "GB",
+      "date": "2026-03-30",
+      "rating": 5,
+      "title": "That's 2 rugby union shirts bought and…",
+      "text": "That's 2 rugby union shirts bought and all is good that much I have a subscription",
+      "topics": [
+        "rugby",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0147",
+      "name": "J Mac",
+      "country": "GB",
+      "date": "2026-03-27",
+      "rating": 5,
+      "title": "Quick service and a first rate product",
+      "text": "Quick service and a first rate product",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0148",
+      "name": "Ethan Wilson",
+      "country": "GB",
+      "date": "2026-03-26",
+      "rating": 5,
+      "title": "Came quick and fit very well",
+      "text": "Came quick and fit very well",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0149",
+      "name": "Ian",
+      "country": "GB",
+      "date": "2026-03-26",
+      "rating": 5,
+      "title": "Fantastic shirt and service",
+      "text": "Fantastic shirt and service",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0150",
+      "name": "Robert Bell",
+      "country": "GB",
+      "date": "2026-03-26",
+      "rating": 5,
+      "title": "2nd purchase made now. Can't wait for more!",
+      "text": "2nd purchase made now. Both tops are fantastic quality and great. The diversity is fantastic with ranges from multiple nations. The delivery service is great it even arrived before they said it would. Love them so much they have gained a subscription from me. Absolutely fantastic!",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0151",
+      "name": "Cathal McHugh",
+      "country": "IE",
+      "date": "2026-03-25",
+      "rating": 5,
+      "title": "Best online shopping experience I've had",
+      "text": "Order was delivered within 2 days much quicker than expected, very good quality and after sale care. Very nice information card about the club also included which is a lovely touch and greatly appreciated. Definitely will buy again!",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0152",
+      "name": "Faye Shorthouse",
+      "country": "GB",
+      "date": "2026-03-25",
+      "rating": 5,
+      "title": "Quick and great quality",
+      "text": "Quick, easy and quality is great, my son loves them",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0153",
+      "name": "Mr Merrilees",
+      "country": "GB",
+      "date": "2026-03-25",
+      "rating": 5,
+      "title": "Brilliant customer service and fabulous…",
+      "text": "Brilliant customer service and fabulous shirts. 5 stars for everything and would wholly recommend this company. Will not hesitate to order from them again",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0154",
+      "name": "NUNO RODRIGUES",
+      "country": "PT",
+      "date": "2026-03-25",
+      "rating": 5,
+      "title": "Loved the shirt",
+      "text": "Loved the shirt, its amazing!!",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0155",
+      "name": "Stefan Czajkowski",
+      "country": "GB",
+      "date": "2026-03-25",
+      "rating": 5,
+      "title": "Absolutely brilliant",
+      "text": "Absolutely brilliant, delivered within 36 hours, packed & presented perfect ,information card with shirt a nice idea, overall makes an ideal gift.",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0156",
+      "name": "customer",
+      "country": "GB",
+      "date": "2026-03-24",
+      "rating": 5,
+      "title": "After a mistake on my end selecting the…",
+      "text": "After a mistake on my end selecting the wrong size the team corrected this for me and the top arrived a team I don't know but the top looks great and feels great",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0157",
+      "name": "Charlie",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 4,
+      "title": "Another great football top",
+      "text": "Another great football top. I do enjoy find out more about the team that the top belongs to.",
+      "topics": [
+        "football",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0158",
+      "name": "GJ",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 5,
+      "title": "Two shirts so far.",
+      "text": "Two shirts so far. Love them. Awesome service and process involved and great quality, lovely fitting shirts that I have zero doubt I will be the only one wearing around here. Can't wait for my next one.",
+      "topics": [
+        "service",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0159",
+      "name": "Kim Davis",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 5,
+      "title": "Excellent service",
+      "text": "Excellent service, delivery was so quick. Well packaged, and it's great you get a choice of shirts from all over the world as well as the UK.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0160",
+      "name": "Lynda Dixon",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 4,
+      "title": "A Xmas present that lasts all year",
+      "text": "My grandson really looks forward to receiving these and they are good quality items. So far they have been lower league shirts but he seems to love them anyway and likes to find out some details about the teams.",
+      "topics": [
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0161",
+      "name": "Richie Fenwick",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 5,
+      "title": "So glad I started this!",
+      "text": "No issue with the order process, simple and easy to use website. Prompt delivery, well-packaged and protected. Delighted with the whole process, I am looking forward to the next one!",
+      "topics": [
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0162",
+      "name": "Robert Brown",
+      "country": "GB",
+      "date": "2026-03-23",
+      "rating": 5,
+      "title": "Perfect fit",
+      "text": "Perfect fit, delivered on time ,",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0163",
+      "name": "shane dunne",
+      "country": "IE",
+      "date": "2026-03-23",
+      "rating": 4,
+      "title": "Great overall Experience",
+      "text": "I have ordered from shirt in a box many times now. I think the service and business they have is wonderful. The shirts have always appeared to be lovely and great quality and packaged well. the subscription model is great. When ordering over Christmas time my order did take a couple of weeks to arrive which is why I haven't rated it 5 stars but overall I have had a a good experience with the business.",
+      "topics": [
+        "football",
+        "subscription",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0164",
+      "name": "ciaran canavan",
+      "country": "IE",
+      "date": "2026-03-20",
+      "rating": 5,
+      "title": "Impressed",
+      "text": "Great service. Excellent quality. Arrives on time. Good way of collecting premium shirts at a good price.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "value"
+      ]
+    },
+    {
+      "id": "r0165",
+      "name": "Skadog.",
+      "country": "GB",
+      "date": "2026-03-18",
+      "rating": 4,
+      "title": "Quality!",
+      "text": "Always great products and talking points. Quality items and good communication throughout. The box opening feeling never goes away!",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0166",
+      "name": "cameron kean",
+      "country": "AU",
+      "date": "2026-03-17",
+      "rating": 5,
+      "title": "Great quality and lovely design",
+      "text": "Great quilling and lovely design. Not a club I would ordinarily pick but I am super impressed with it.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0167",
+      "name": "KARL KNIPE",
+      "country": "GB",
+      "date": "2026-03-17",
+      "rating": 5,
+      "title": "Receiving a mystery shirt is a great…",
+      "text": "Receiving a mystery shirt is a great experience. Great service .",
+      "topics": [
+        "service",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0168",
+      "name": "Nigel Saunders",
+      "country": "GB",
+      "date": "2026-03-17",
+      "rating": 5,
+      "title": "Great shirt and prompt delivery o",
+      "text": "I think what I enjoyed most with this purchase was the anticipation of what shirt maybe sent. - it turned out to be a from an Italian Club, great strip and good quality material- really pleased",
+      "topics": [
+        "football",
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0169",
+      "name": "Robert Thomson",
+      "country": "GB",
+      "date": "2026-03-17",
+      "rating": 5,
+      "title": "Great Variety",
+      "text": "Been with Mystery Shirt in a Box for 5 month now with the subrscription. Honestly was hesistant at first but never looked back since the first order shirts have always looked slick and obviously saved alot. But the best thing ive noticed personally is both of us have never had a duplicate top between the 2 of us.",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0170",
+      "name": "Alan",
+      "country": "AU",
+      "date": "2026-03-16",
+      "rating": 5,
+      "title": "Great and when I put down wrong address…",
+      "text": "Great and when I put down wrong address they redelivered with no issues or extra cost.\n\nLegends",
+      "topics": [
+        "delivery",
+        "value"
+      ]
+    },
+    {
+      "id": "r0171",
+      "name": "andrew",
+      "country": "NZ",
+      "date": "2026-03-14",
+      "rating": 5,
+      "title": "I enjoy the surprise of what team is in…",
+      "text": "I enjoy the surprise of what team is in the package. The jerseys have been great, and arrive in good time. As a New Zealander this has been really good. I get the rugby shirts and have had two Italian teams and a French team so far. Looking forward to seeing the fourth surprise. Hoping it is a better known team but if not I will still be happy.",
+      "topics": [
+        "rugby",
+        "delivery",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0172",
+      "name": "jake somerfield",
+      "country": "GB",
+      "date": "2026-03-13",
+      "rating": 5,
+      "title": "Had 8 of these now fantastic to get new…",
+      "text": "Had 8 of these now fantastic to get new shirts every month",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0173",
+      "name": "Neil Moses",
+      "country": "GB",
+      "date": "2026-03-13",
+      "rating": 5,
+      "title": "Great shirt great fit 5xl awesome thank…",
+      "text": "Great shirt great fit 5xl awesome thank you",
+      "topics": [
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0174",
+      "name": "stephen wright",
+      "country": "GB",
+      "date": "2026-03-12",
+      "rating": 5,
+      "title": "Great Rugby Shirt",
+      "text": "Great Rugby Shirt . Exactly what I ask for a Rugby shirt that you could not normally find . Great value for money 💰",
+      "topics": [
+        "rugby",
+        "value"
+      ]
+    },
+    {
+      "id": "r0175",
+      "name": "Milan Rosic",
+      "country": "AU",
+      "date": "2026-03-05",
+      "rating": 5,
+      "title": "Great Variety of Kits",
+      "text": "Great variety of shirts and great quality",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0176",
+      "name": "Dave",
+      "country": "IE",
+      "date": "2026-03-04",
+      "rating": 5,
+      "title": "Top quality basketball shirts delivered…",
+      "text": "Top quality basketball shirts delivered on time, every month.\nCustomer service is A1\n\nPlease god... let next jersey be an NBA :)",
+      "topics": [
+        "basketball",
+        "football",
+        "delivery",
+        "service",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0177",
+      "name": "Kris Halfpenny",
+      "country": "GB",
+      "date": "2026-03-04",
+      "rating": 5,
+      "title": "Great service",
+      "text": "Great service all round",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0178",
+      "name": "Mr Mark Joy",
+      "country": "GB",
+      "date": "2026-03-04",
+      "rating": 5,
+      "title": "Ease of order process",
+      "text": "Ease of order process, the ability to state what shirts you wouldn't like to order, price of shirts is superb, speed of delivery was great and shirt I received I was very pleased with, pleasantly surprised.",
+      "topics": [
+        "delivery",
+        "value",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0179",
+      "name": "Ruth",
+      "country": "GB",
+      "date": "2026-03-04",
+      "rating": 5,
+      "title": "I had never heard of mystery shirt in a…",
+      "text": "I had never heard of mystery shirt in a box until I ordered one love wearing my t shirt FC Pompeii",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0180",
+      "name": "MICHAEL SWIFT",
+      "country": "GB",
+      "date": "2026-03-03",
+      "rating": 5,
+      "title": "Great product & super quick delivery",
+      "text": "Great product & super quick delivery",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0181",
+      "name": "Allan T",
+      "country": "GB",
+      "date": "2026-02-27",
+      "rating": 5,
+      "title": "Another great shirt!",
+      "text": "My second shirt in my subscription... and another good one! A really obscure one (Italian 4th Tier side) but great quality shirt. Well done shirt picker!",
+      "topics": [
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0182",
+      "name": "Paul Chilton",
+      "country": "GB",
+      "date": "2026-02-27",
+      "rating": 5,
+      "title": "Loved it",
+      "text": "Great quality tops, loved the ones I received and managed my requests. loved it and will get more",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0183",
+      "name": "Sandy Mason",
+      "country": "IE",
+      "date": "2026-02-27",
+      "rating": 5,
+      "title": "Rugby jersey every 3 months for my godson",
+      "text": "I bought the offer of a rugby jersey delivered every 3 months over the year for my teenage godson. Two have been delivered so far and he loves both. Great communication from mysteryshirtinabox telling me when it is being delivered. The info card about the club/ jersey is a nice touch. Great quality - lasting the training sessions and multiple washes",
+      "topics": [
+        "rugby",
+        "gift",
+        "subscription",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0184",
+      "name": "Alfie Jones",
+      "country": "GB",
+      "date": "2026-02-26",
+      "rating": 5,
+      "title": "Good and on time",
+      "text": "Good and on time",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0185",
+      "name": "kieran wright",
+      "country": "GB",
+      "date": "2026-02-26",
+      "rating": 5,
+      "title": "Nice and easy to select teams",
+      "text": "Nice and easy to select teams and leagues that you might want to avoid. Already received my first shit and its very good quality.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0186",
+      "name": "Peter",
+      "country": "GB",
+      "date": "2026-02-26",
+      "rating": 5,
+      "title": "Good service",
+      "text": "Very good service and enjoying the product I get",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0187",
+      "name": "andrew",
+      "country": "NZ",
+      "date": "2026-02-25",
+      "rating": 5,
+      "title": "New Zealand thumbs up",
+      "text": "The mystery shirt arrived in good time after I tracked it. Was exciting watching it's progress not knowing what was coming. The shirt was from a semi-pro french club (Vitrolles) in the 4th division, which was interesting in itself. Shirt was good quality and fitted well. Just hoping the next shirt may be a club with a better known name, but that is part of the mystery - some will be unknown whilst others we will recognise!",
+      "topics": [
+        "delivery",
+        "exchange",
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0188",
+      "name": "Christopher",
+      "country": "GB",
+      "date": "2026-02-25",
+      "rating": 5,
+      "title": "All shirts delivered super quick and…",
+      "text": "All shirts delivered super quick and all top quality. Couldn't ask for more",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0189",
+      "name": "Doherty",
+      "country": "IE",
+      "date": "2026-02-25",
+      "rating": 5,
+      "title": "My second time ordering from this…",
+      "text": "My second time ordering from this company. Fast delivery, my son always wants one for his birthday, he loves the excitement of not knowing what shirt he\nIs getting, he is always happy with what he receives 😊",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0190",
+      "name": "Conor Wylie",
+      "country": "AU",
+      "date": "2026-02-24",
+      "rating": 5,
+      "title": "Fast delivery & excellent product. Melbourne based Derry lad",
+      "text": "Fast delivery to Melbourne, with a superb Serie C jersey to kick off my subscription. Highly rated",
+      "topics": [
+        "football",
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0191",
+      "name": "Dave Kennedy",
+      "country": "GB",
+      "date": "2026-02-24",
+      "rating": 5,
+      "title": "Great top that looks fantastic.",
+      "text": "Great top that looks fantastic.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0192",
+      "name": "george ruckert NORD VPN Custom",
+      "country": "GB",
+      "date": "2026-02-24",
+      "rating": 4,
+      "title": "Great quality shirts 👕 👌",
+      "text": "Great quality shirts 👕 👌",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0193",
+      "name": "Gráinne",
+      "country": "IE",
+      "date": "2026-02-24",
+      "rating": 5,
+      "title": "I got a subscription for my wife for…",
+      "text": "I got a subscription for my wife for Christmas and we both love it! The 2 shirts she has gotten so far are really good quality and look really good too! There is so much excitement when the package is delivered also!",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0194",
+      "name": "Neil Beck",
+      "country": "GB",
+      "date": "2026-02-24",
+      "rating": 5,
+      "title": "Great.",
+      "text": "Great. Got a totally random shirt from the top tier of French semi pro rugby and it's gorgeous. Can't wait for the next.",
+      "topics": [
+        "rugby",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0195",
+      "name": "Jonathan Harper",
+      "country": "GB",
+      "date": "2026-02-23",
+      "rating": 5,
+      "title": "Excellent quick service",
+      "text": "Excellent quick service",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0196",
+      "name": "Simon Healey",
+      "country": "GB",
+      "date": "2026-02-21",
+      "rating": 5,
+      "title": "Shirt came in good time",
+      "text": "Shirt came in good time, packaged properly and nice shirt",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0197",
+      "name": "Derek Foran",
+      "country": "IE",
+      "date": "2026-02-20",
+      "rating": 5,
+      "title": "Have gotten 3 different jerseys for my son.",
+      "text": "Have gotten 3 different jerseys for my teenage son so far. He loves the box arriving and getting an unusual Jersey.\nQuality of the jerseys is excellent.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0198",
+      "name": "Ryan sullivan",
+      "country": "GB",
+      "date": "2026-02-20",
+      "rating": 5,
+      "title": "Fats delivery, amazing shirts",
+      "text": "Shirt arrives quickly,and the site is easy to navigate, I've had 2 shirts so far and they are great ?",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0199",
+      "name": "Thomas Keenan",
+      "country": "GB",
+      "date": "2026-02-20",
+      "rating": 5,
+      "title": "Was as described can't fault thank you 🙏",
+      "text": "Was as described can't fault thank you 🙏",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0200",
+      "name": "FEARGHAL HAYES",
+      "country": "IE",
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "Excellent service from start to finish",
+      "text": "Excellent service from start to finish! the variety and quality of the jerseys are top class. My son absolutely loves them and we have also bought them as presents and all well received too. Fab customer service and product!",
+      "topics": [
+        "football",
+        "service",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0201",
+      "name": "John Alexander Smith",
+      "country": "US",
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "Excellent product",
+      "text": "Excellent product, does what it says on the tin",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0202",
+      "name": "Julie Ali",
+      "country": "GB",
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "delivered when said son is happy with…",
+      "text": "delivered when said son is happy with shirt",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0203",
+      "name": "Lee Jolly",
+      "country": "GB",
+      "date": "2026-02-19",
+      "rating": 4,
+      "title": "I like the product",
+      "text": "I like the product, I think it's value for money.\n\nMy recent order was delayed due to a stocking issue which couldn't be helped.\n\nOne of my previous orders was one of my favourite jersey designs to date but it was too small, I would have liked it in a bigger size.",
+      "topics": [
+        "football",
+        "exchange",
+        "value"
+      ]
+    },
+    {
+      "id": "r0204",
+      "name": "Mrs Jamie Knight",
+      "country": "GB",
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "Great service, great products",
+      "text": "Everything from start to finish is easy and the product received was fantastic, cant wait for next months box",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0205",
+      "name": "Richard",
+      "country": "GB",
+      "date": "2026-02-18",
+      "rating": 4,
+      "title": "Excellent customer service and were…",
+      "text": "Excellent customer service and were very helpful when I had queries.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0206",
+      "name": "Customer",
+      "country": "IE",
+      "date": "2026-02-17",
+      "rating": 5,
+      "title": "Great experience",
+      "text": "Great experience",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0207",
+      "name": "John McMann",
+      "country": "GB",
+      "date": "2026-02-17",
+      "rating": 5,
+      "title": "Bit of an impulse buy as have seen a…",
+      "text": "Bit of an impulse buy as have seen a few different companies selling these and thought would try one. Shirt arrived quickly well packaged and with a card giving some basic information about the club. The shirt I received was a lower league Italian team (which I had never heard of) but the shirt design itself was amazing and very cool! What made it so much better was the team was from an area I had been on holiday to a few years before which I had absolutely loved, so I felt a bit of a connection. I know this was just pure chance but it's made the whole experience feel more personal to me.",
+      "topics": [
+        "delivery",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0208",
+      "name": "Henry Tomlinson",
+      "country": "GB",
+      "date": "2026-02-15",
+      "rating": 4,
+      "title": "Surprising mystery shirts",
+      "text": "Shirts are great, surprising and a total mystery. The small info card on about the club is great. Sizing was difficult I am a large in certain rugby brands oxen/canterbury but have figured out I need XL.\n\nI received a jersey for an Italian women's rugby team, great shirt form a club I would never have known existed.",
+      "topics": [
+        "rugby",
+        "exchange",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0209",
+      "name": "Stuart Hanley",
+      "country": "GB",
+      "date": "2026-02-13",
+      "rating": 4,
+      "title": "Highly recommend",
+      "text": "Excellent! Love how the you the suspense is when you receive the shirt and to opening it!",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0210",
+      "name": "Sandra Finn",
+      "country": "IE",
+      "date": "2026-02-09",
+      "rating": 4,
+      "title": "Happy with the shirt.",
+      "text": "Happy with the shirt.\nDelivered on time.\nGood quality.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0211",
+      "name": "James Frame",
+      "country": "GB",
+      "date": "2026-02-04",
+      "rating": 4,
+      "title": "Got this for my son and the variety of…",
+      "text": "Got this for my son and the variety of clubs has been great, he's shot up in height but it was easy to change my order to a new size, my only concern is the bonus items we recieved mystery socks in the last delivery don't match any of the shirts for the fashion conscious recipients",
+      "topics": [
+        "delivery",
+        "exchange",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0212",
+      "name": "Chris Mitchell",
+      "country": "GB",
+      "date": "2025-12-30",
+      "rating": 4,
+      "title": "Nice to receive a good shirt",
+      "text": "Nice to receive a good shirt",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0213",
+      "name": "Chris",
+      "country": "IE",
+      "date": "2025-12-29",
+      "rating": 4,
+      "title": "The products are great. I would recommend the company and the products.",
+      "text": "The products are great. All football shirt were well designed and selected based on the criteria I outlined in the selection form. All three of the shirts I ordered were the correct size, and very stylish. I gave 4 stars only, as the order took longer to post than had been outlined in the FAQ's. Though, when I contacted the customer care, they outlined the issue was with holiday season and they they were resolving the issue. All of the gifts arrived before Christmas and in good condition.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "exchange",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0214",
+      "name": "Jackie Fraser McDonald",
+      "country": "GB",
+      "date": "2025-12-29",
+      "rating": 4,
+      "title": "Great service",
+      "text": "My son was pleased to with his new shirt",
+      "topics": [
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0215",
+      "name": "Laura Brannan",
+      "country": "GB",
+      "date": "2025-12-29",
+      "rating": 4,
+      "title": "Great idea especially for rugby shirts",
+      "text": "Great idea especially for rugby shirts. However, what's not great is when it's a Christmas present and comes in a branded box and they can see what it is? It's not very secretive…",
+      "topics": [
+        "rugby",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0216",
+      "name": "deemac",
+      "country": "IE",
+      "date": "2025-12-26",
+      "rating": 4,
+      "title": "Received for my Son who was…",
+      "text": "Received for my Son who was disappointed it wasn't a UK team but it was a lovely top .He will ware it but you could see his disappointment but that's his personal choice and no fault of the Company .\nPostage was very prompt but courier left it out side at the gate and it was raining so box was all wet , again no fault of Mystery in a box .",
+      "topics": [
+        "delivery",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0217",
+      "name": "Angus Scott",
+      "country": "GB",
+      "date": "2025-12-24",
+      "rating": 4,
+      "title": "Shirt in a Box",
+      "text": "Great quality, good range of teams/nations, Brilliant Prices!",
+      "topics": [
+        "quality",
+        "value"
+      ]
+    },
+    {
+      "id": "r0218",
+      "name": "Jerome Kiely",
+      "country": "IE",
+      "date": "2025-12-20",
+      "rating": 4,
+      "title": "Its a Christmas present for someone so…",
+      "text": "Its a Christmas present for someone so still unopened. Will rate later.",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0219",
+      "name": "Kimberley Fallows",
+      "country": "GB",
+      "date": "2025-12-18",
+      "rating": 4,
+      "title": "Son loves but i do have some concerns",
+      "text": "I got my partner & my son a mystery box for Christmas and they both loved it however, my partner wont wear his shirt as its a Venezuela team! But my son absolutely loved his that he has been asking for another one, due to this I have subscribed to a monthly subscription for him! Will do another review if this is worth it!\n\nMy down side is communication isn't great! I messaged them on their instagram page and never got a response as my xmas order took over 2 weeks to arrive! I ordered it end of November and was advised 5 days for delivery!\nWould also prefer to decide where shirts are from rather than just picking 3 nations you don't want.\nWith the kids I would say add the teams football shorts as kids prefer to wear kits rather than just tops, as trying to get shorts to match isn't easy and can be more expensive than the shirts due to shipping!",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "gift",
+        "subscription",
+        "value",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0220",
+      "name": "darren fraser",
+      "country": "GB",
+      "date": "2025-12-17",
+      "rating": 4,
+      "title": "Brilliant service",
+      "text": "Brilliant service, lower French league but still a nice rugby shirt",
+      "topics": [
+        "rugby",
+        "service"
+      ]
+    },
+    {
+      "id": "r0221",
+      "name": "Paul Izard",
+      "country": "GB",
+      "date": "2025-12-17",
+      "rating": 4,
+      "title": "So far, ok - glitch in the matrix",
+      "text": "My first three shirts were delivered very quickly indeed. 2 of the shirts were from somewhat obscure clubs, but that's fine. They're not common and that's part of the beauty of this set-up. Box o' choc'lates, etc.\nHowever, my 4th shirt is yet to arrive. There's been a delay and it's not been picked and despatched. I had to chase it, hence only 4 stars. Hopefully, it'll arrive very soon.",
+      "topics": [
+        "delivery",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0222",
+      "name": "Miranda Taylor",
+      "country": "GB",
+      "date": "2025-12-10",
+      "rating": 5,
+      "title": "A great gift for a rugby nut!",
+      "text": "Very quick delivery and arrived beautifully packaged. My partner is going to love for Xmas. A great gift for a rugby nut!",
+      "topics": [
+        "rugby",
+        "gift",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0223",
+      "name": "SHANE MULLANE",
+      "country": "IE",
+      "date": "2025-12-09",
+      "rating": 4,
+      "title": "Great service my only fault is the…",
+      "text": "Great service my only fault is the delivery's are getting later and than the first 2 but other than that I enjoy it",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0224",
+      "name": "Mark Higgin",
+      "country": "GB",
+      "date": "2025-12-01",
+      "rating": 4,
+      "title": "Easy service and good quality shirts",
+      "text": "Easy service and good quality shirts",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0225",
+      "name": "Lee Jolly",
+      "country": "GB",
+      "date": "2025-11-19",
+      "rating": 4,
+      "title": "Great Product!",
+      "text": "I love the product. More attention to the sizing could improve the service. Traditional jerseys run bigger than the medium I received. It would have been nice to swap the wrong sized jersey for the same one in a bigger size.",
+      "topics": [
+        "football",
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0226",
+      "name": "Joshua Tyrrell",
+      "country": "GB",
+      "date": "2025-11-18",
+      "rating": 4,
+      "title": "happy customer",
+      "text": "Good shirt quality\nTimely delivery",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0227",
+      "name": "Connor",
+      "country": "GB",
+      "date": "2025-11-12",
+      "rating": 4,
+      "title": "Fun surprise",
+      "text": "The surprise is always great, not knowing what you are going to get!\n\nThe quality of shirts have been mostly great. A few of the shirts you can just buy for £15 to £20 on other websites which is a bit annoying but that's part of the game. I like getting shirts from teams I wouldn't normally pick but getting 2 or 3 in a row from Indian or Botswana teams can be a bit frustrating for the price. You also get some fee stuff for every extra month you subscribe and eventually get a free shirt which is nice. The free football socks were a bit rubbish though, they aren't even from a team. They are just generic football socks.\n\nDelivery is usually very fast too.\n\nOverall if you have a spare £35, it's a fun monthly surprise.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality",
+        "subscription",
+        "value",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0228",
+      "name": "chris bewick",
+      "country": "GB",
+      "date": "2025-10-22",
+      "rating": 4,
+      "title": "Good quality but always end up with a team from a lower level will se what happens next delivery if I end up with a crap team im canceling",
+      "text": "Not bad quality but I always end up with a team from the lower leagues from a small country. I'll se what happens next month. If I end up with a crap team I'm cancelling and I'll just buy the shirt i want",
+      "topics": [
+        "delivery",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0229",
+      "name": "John Whitworth",
+      "country": "GB",
+      "date": "2025-10-11",
+      "rating": 4,
+      "title": "Great quality shirts",
+      "text": "Great quality shirts, so varied, quick delivery, even when there are delays, the communication is spot on. Y sending updates via email, lost a bit of weight recently so the last shirt was to big, returned it with no issues, just waiting for my replacement. Could do with a better way of contacting in case of any issues/queries., but all in all a great idea if your a true football fan.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0230",
+      "name": "Marc Kavulok",
+      "country": "GB",
+      "date": "2025-09-30",
+      "rating": 4,
+      "title": "Quality shirts delivered promptly",
+      "text": "Excellent delivery very quick. Maybe it's due to the manufacturer but the shirt was a little on the small size but even so the quality was amazing. I'm looking forward to receiving my next one.",
+      "topics": [
+        "delivery",
+        "exchange",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0231",
+      "name": "Neil",
+      "country": "GB",
+      "date": "2025-09-24",
+      "rating": 4,
+      "title": "Good idea",
+      "text": "Good idea, good service",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0232",
+      "name": "Richard Shuff",
+      "country": "GB",
+      "date": "2025-09-20",
+      "rating": 4,
+      "title": "Great to order and fun",
+      "text": "Great to order and fun\nCustomer services … Conner? … was excellent and patient!",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0233",
+      "name": "Manny Henriques",
+      "country": "GB",
+      "date": "2025-09-17",
+      "rating": 4,
+      "title": "Worth the experience and will be ordering again.",
+      "text": "Placing the order was easy and especially being able to confirm regions/teams that i didnt want to receive was helpful. This would have been a 5 star if the order was received in the the time scale originally offered, however its not lower because i was sent an email explaining it would be a couple of days late and why and it was only delayed by two days. The shirt i received is excellent quality looks good and will now be cheering for the Venezuelan national team whenever i see international matches.",
+      "topics": [
+        "service",
+        "quality",
+        "value"
+      ]
+    },
+    {
+      "id": "r0234",
+      "name": "Matthew Barnett",
+      "country": "GB",
+      "date": "2025-09-11",
+      "rating": 4,
+      "title": "Few issues with delivery times but…",
+      "text": "Few issues with delivery times but great response times to my queries regarding this",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0235",
+      "name": "Lucas Carreira",
+      "country": "PT",
+      "date": "2025-09-08",
+      "rating": 4,
+      "title": "Quick ordering process",
+      "text": "Quick ordering process. The delivery in Portugal was very quick and effective. I'm keen to receive my upcoming jerseys!",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0236",
+      "name": "Bobby Wright",
+      "country": "GB",
+      "date": "2025-09-05",
+      "rating": 4,
+      "title": "For the husband",
+      "text": "I set it up for my husband a while back as a bit of a treat and so far it's been very positive. Admittedly there have been stock issues (the husband is built big doesn't help) but they've been dealt with professionally as possible which is all you can ask. All the shirts have been great. One of the German ones was actually a limited edition.\n\nWe also received some other bits along the way including football socks which I claimed for the winter.\n\nWell worth it in my opinion and a local guy too.",
+      "topics": [
+        "football",
+        "gift",
+        "value"
+      ]
+    },
+    {
+      "id": "r0237",
+      "name": "Mark Warren",
+      "country": "GB",
+      "date": "2025-09-02",
+      "rating": 4,
+      "title": "Marks ⚒️",
+      "text": "I found the 2 shirts sent to be excellent quality & good value ⚒️",
+      "topics": [
+        "quality",
+        "value"
+      ]
+    },
+    {
+      "id": "r0238",
+      "name": "Max Wright",
+      "country": "GB",
+      "date": "2025-08-29",
+      "rating": 4,
+      "title": "got the shirt would of been 5 stars but…",
+      "text": "got the shirt would of been 5 stars but lack of communication when asking questions about the order and slight delay on picking the shirt and delivery although I understand that might of been because there was a lot of orders to go through",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0239",
+      "name": "Steve",
+      "country": "GB",
+      "date": "2025-08-29",
+      "rating": 4,
+      "title": "Great concept and great shirt received",
+      "text": "Great concept and great shirt received. You have to be very careful in sizing due to range. Both my orders have been smaller than expected",
+      "topics": [
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0240",
+      "name": "James Frame",
+      "country": "GB",
+      "date": "2025-08-05",
+      "rating": 4,
+      "title": "Second shirt I was expecting bonus…",
+      "text": "Second shirt I was expecting bonus cards as well as the info on the club we got, however we got a nice shirt and nothing else\nDisappointing after the first box",
+      "topics": [
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0241",
+      "name": "Alec",
+      "country": "GB",
+      "date": "2025-07-31",
+      "rating": 4,
+      "title": "Excellent quality and variety. Slight delay on delivery",
+      "text": "The quality and variety of shirts are great. I've really enjoyed the surprises. I've had 6 shirts so far, and all are excellent quality. My only reason for giving 4 stars instead of 5 is that my last 2 have been delivered three and a half weeks late. I must add that I did receive an email on both occasions explaining why there would be a delay without me having to ask, which I'm grateful for, and for that transparency, I shall carry on subscribing.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0242",
+      "name": "Mark Higgin",
+      "country": "GB",
+      "date": "2025-07-31",
+      "rating": 4,
+      "title": "Kids love receiving there new shirts",
+      "text": "Kids love receiving there new shirts",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0243",
+      "name": "Friend of Ted",
+      "country": "GB",
+      "date": "2025-07-30",
+      "rating": 4,
+      "title": "Delivery took longer than expected but…",
+      "text": "Delivery took longer than expected but an email came out advising of delays, no problem, shirt arrived not too long afterwards, good shirt and great quality. Would purchase again",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0244",
+      "name": "Stephanie Burness",
+      "country": "GB",
+      "date": "2025-07-30",
+      "rating": 4,
+      "title": "Great quality shirt",
+      "text": "Great quality shirt, would recommend using it. Communications between them and I weren't Great, slow, but hopefully thats easily improved.",
+      "topics": [
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0245",
+      "name": "Jack Petrie",
+      "country": "GB",
+      "date": "2025-07-25",
+      "rating": 4,
+      "title": "The vast transparency of the product…",
+      "text": "The vast transparency of the product that you want by customising the teams that you do not want. However, the box didn't have the small info card and came to my house damaged, but the product was very delightful. Would recommend and order #2 is on its way!",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0246",
+      "name": "James Buchanan",
+      "country": "GB",
+      "date": "2025-07-21",
+      "rating": 4,
+      "title": "Good service fast delivery",
+      "text": "Good service fast delivery, only downside code they send doesn't work",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0247",
+      "name": "Pullen Karen",
+      "country": "GB",
+      "date": "2025-07-21",
+      "rating": 4,
+      "title": "Football shirt",
+      "text": "The shirt was of very good quality, and was very much appreciated,",
+      "topics": [
+        "football",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0248",
+      "name": "Daniel Karlsson",
+      "country": "SE",
+      "date": "2025-07-10",
+      "rating": 4,
+      "title": "Nice shirts, great service",
+      "text": "Nice shirts, arriving on time and listened to feedback. Can certainly recommend this service!",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0249",
+      "name": "Craig Plimbley",
+      "country": "GB",
+      "date": "2025-07-07",
+      "rating": 4,
+      "title": "This would be 100% a 5 star but it…",
+      "text": "This would be 100% a 5 star but it takes way to long to get an answer if you have an issue. The team did eventually get back to me on Facebook messenger, the shirts are banging I've had one that was to small did get it swapped but took quite sometime. Hopefully everything goes well this time. The shirts are 5 star just need to work on the customer service.",
+      "topics": [
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0250",
+      "name": "Nathan Kiernan",
+      "country": "IE",
+      "date": "2025-07-01",
+      "rating": 4,
+      "title": "Happy with the experience and the…",
+      "text": "Happy with the experience and the jersey I received just on one of my previous I can't remember have I flagged it before the badge fell off the jersey after one washb",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0251",
+      "name": "Robert Campbell",
+      "country": "GB",
+      "date": "2025-06-25",
+      "rating": 4,
+      "title": "Shirts perfect just took ages to arrive…",
+      "text": "Shirts perfect just took ages to arrive was the only bad part",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0252",
+      "name": "Tracey",
+      "country": "GB",
+      "date": "2025-06-23",
+      "rating": 4,
+      "title": "The service was a little slower than…",
+      "text": "The service was a little slower than expected. It took 10 days for the order to be picked and dispatched. It arrived in time for Fathers Day though and the recipient was really pleased. Good quality shirt.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0253",
+      "name": "layton robson",
+      "country": "GB",
+      "date": "2025-06-16",
+      "rating": 4,
+      "title": "Good Quality shirt and quick delivery",
+      "text": "Good Quality shirt and quick delivery. Would have liked a Football shirt rather than Jersey for the team though",
+      "topics": [
+        "football",
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0254",
+      "name": "Anton Nolan",
+      "country": "GB",
+      "date": "2025-06-11",
+      "rating": 4,
+      "title": "I'm happy with everything now",
+      "text": "I'm happy with everything now, however, it did take months for the shirts to start arriving. Great now though 👌",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0255",
+      "name": "Michell Ward",
+      "country": "GB",
+      "date": "2025-06-10",
+      "rating": 4,
+      "title": "Helped along with purchase",
+      "text": "Helped along with purchase. Even though there was a wait Son loves his shirt... Will order again",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0256",
+      "name": "Layton",
+      "country": "GB",
+      "date": "2025-05-20",
+      "rating": 4,
+      "title": "Loved the shirt",
+      "text": "Loved the shirt but did take a couple weeks longer than expected",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0257",
+      "name": "Shai Rosenberg",
+      "country": "US",
+      "date": "2025-05-09",
+      "rating": 4,
+      "title": "Great Customer service",
+      "text": "My jersey was not delivered for a while so I decided to email their customer service. I asked why my jersey has not been delivered yet and they said it was due to an apparent surge in demand. They than asked if I wanted to wait a little longer for the shirt or if I wanted a refund. I asked for a refund and the money was sent to my account in 3 days! They also answered my emails very quickly. Overall I would recommend this company.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "exchange",
+        "value"
+      ]
+    },
+    {
+      "id": "r0258",
+      "name": "Stephen Hughes",
+      "country": "IE",
+      "date": "2025-05-07",
+      "rating": 4,
+      "title": "Hassle free jersey shopping",
+      "text": "Great shirts, I'm delighted with them. The only down side is that the last 2 boxes look like they've been opened to look inside. The jersey within the plastic hasn't been touched. Just thought I'd share this with you.",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0259",
+      "name": "Jack Hyndman",
+      "country": "GB",
+      "date": "2025-04-25",
+      "rating": 4,
+      "title": "Great business model",
+      "text": "Great business model, really helpful customer service when any issues arise. Have loved my boxes so far and am looking forward to more.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0260",
+      "name": "Gerard Hunt",
+      "country": "GB",
+      "date": "2025-04-23",
+      "rating": 4,
+      "title": "Easy to order",
+      "text": "Easy to order . Plus you could easily not say what shirts you did not want . Was with me easily in a few days . Plus answered my email very quickly. Recommended them .",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0261",
+      "name": "John Whitworth",
+      "country": "GB",
+      "date": "2025-04-21",
+      "rating": 4,
+      "title": "Shirt",
+      "text": "Good shirt, different, 1 from Egypt but a nice top.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0262",
+      "name": "Peter Harvey",
+      "country": "GB",
+      "date": "2025-04-19",
+      "rating": 4,
+      "title": "Perfect gift for a Football fan",
+      "text": "My 15 year old son is football mad and absolutely loves these boxes, he has now got shirts from Ghana, India, 2 different Spanish leagues and Egypt, the main thing he loves is that it could be a shirt from a team that he has never heard of before.\n\nWe had a slight issue as when the most recent order turned up the shirts did not have tags, but I contacted customer services straight away, sent the shirts back and the replacements were despatched immediately. Otherwise we have had a great experience and the subscription makes it really easy. For me one of the best things is being able to exclude nations you don't want shirts from and I also list the shirts he has already had so we don't get duplicates.",
+      "topics": [
+        "football",
+        "service",
+        "gift",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0263",
+      "name": "Lewis",
+      "country": "GB",
+      "date": "2025-04-11",
+      "rating": 4,
+      "title": "Great Customer Service",
+      "text": "I received a shirt from this company which unfortunately had a badge that repeatedly fell off, despite hand washing the shirt as advised. Despite that, the rest of the shirt was of great quality, and the customer service I received when attempting to return the shirt was excellent. My order was outside their 30 day return policy, but I was offered the chance to return the shirt regardless. Very happy with the service I received and can see myself trying another shirt from this business soon.",
+      "topics": [
+        "service",
+        "exchange",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0264",
+      "name": "Adam Beswick",
+      "country": "GB",
+      "date": "2025-04-10",
+      "rating": 4,
+      "title": "Very good gift offer different shirt I…",
+      "text": "Very good gift offer different shirt I would never buy",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0265",
+      "name": "Brendan O'Donoghue",
+      "country": "GB",
+      "date": "2025-04-10",
+      "rating": 4,
+      "title": "Quality as always",
+      "text": "Quality as always! My son loves every shirt received",
+      "topics": [
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0266",
+      "name": "Shane Brennan",
+      "country": "IE",
+      "date": "2025-04-07",
+      "rating": 4,
+      "title": "It was very quick delivery and very…",
+      "text": "It was very quick delivery and very well packed. Was excited to get it but the quality wasn't the best as the jersey had damaged on the back almost like a slight burn mark but overall i was happy to receive it and will be re ordering.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0267",
+      "name": "Scott fancett",
+      "country": "GB",
+      "date": "2025-04-03",
+      "rating": 4,
+      "title": "Delivery took over two weeks and the…",
+      "text": "Delivery took over two weeks and the shirt arrived without tags. I'm assuming this is someone's who's sent it back from the original delivery. The shirt itself it nice and it was a nice suprise too.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0268",
+      "name": "Simon Gizzie",
+      "country": "GB",
+      "date": "2025-04-03",
+      "rating": 4,
+      "title": "Review",
+      "text": "Nice kit. Already had last seasons shirt and had this shirt for 1 of my mates kids too but I'm happy with it",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0269",
+      "name": "Sam Abrams",
+      "country": "GB",
+      "date": "2025-04-01",
+      "rating": 4,
+      "title": "Fun and exciting way to get football…",
+      "text": "Fun and exciting way to get football jerseys and find out about teams you might not normally see.",
+      "topics": [
+        "football"
+      ]
+    },
+    {
+      "id": "r0270",
+      "name": "James",
+      "country": "GB",
+      "date": "2025-03-28",
+      "rating": 4,
+      "title": "It's been good",
+      "text": "It's been good, but have had to chase the last 2 orders as they have been late. Good shirts and always a quick reply",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0271",
+      "name": "Consumer",
+      "country": "GB",
+      "date": "2025-03-27",
+      "rating": 4,
+      "title": "Nice shirt",
+      "text": "Nice shirt. Just a shame that the delivery was a little late as it was ordered for a birthday present.",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0272",
+      "name": "James",
+      "country": "GB",
+      "date": "2025-03-27",
+      "rating": 4,
+      "title": "Great Shirts, Stick with Them!",
+      "text": "Overall, I've received 2 shirts so far from some real niche football teams. The first shirt was for Al Ahly which was ok, nothing special but still quite unique. The second shirt was for Vitoria FC and I'm over the moon with it, the shirt design is outstanding and even trying to find the shirt online is near on impossible so they've really done well to get their hands on this!!\n\nThe communication sometimes is lacking, it takes some time for them to respond and because of high demand I've had to wait 3 weeks on average for each shirt to arrive from ordering. If you're willing to wait, I'd say it's definitely worth it. I'll potentially return in the coming months to see what else I get!",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "exchange",
+        "value",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0273",
+      "name": "Consumer",
+      "country": "IE",
+      "date": "2025-03-26",
+      "rating": 4,
+      "title": "Always have had a good experience with…",
+      "text": "Always have had a good experience with mysteryshirtinabox, only issue I have seen was in the last box I got the badge has started to peel off the kit after two washes. It's an Umbro Al-Ahly kit which has been the only kit this has happened all others ones are still in good condition even after a year of wearing",
+      "topics": [
+        "football",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0274",
+      "name": "Bret King",
+      "country": "GB",
+      "date": "2025-03-25",
+      "rating": 4,
+      "title": "Faces on boys every time shirts come 👍",
+      "text": "Faces on boys every time shirts come 👍",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0275",
+      "name": "Mark Bailey",
+      "country": "GB",
+      "date": "2025-03-20",
+      "rating": 4,
+      "title": "Genuine high quality shirt.",
+      "text": "High quality shirt & very nicely packaged. Took a month to arrive, but after emailing I was given an explanation as to the delay & kept regularly up to date. Have taken out a bi-monthly subscription.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality",
+        "subscription",
+        "legit"
+      ]
+    },
+    {
+      "id": "r0276",
+      "name": "Gary",
+      "country": "GB",
+      "date": "2025-03-18",
+      "rating": 4,
+      "title": "Good quality shirt",
+      "text": "Good quality shirt, wide variety 👌",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0277",
+      "name": "Daniel Chivell",
+      "country": "GB",
+      "date": "2025-03-04",
+      "rating": 4,
+      "title": "Fantastic shirt looking forward to recieving more",
+      "text": "Bit of a delay due to them being really busy but kept in communication. Shirt arrived nicely packaged only issue delivery company left outside my door in the rain, luckily item was in plastic bag so remained dry.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0278",
+      "name": "Brendan O'Donoghue",
+      "country": "GB",
+      "date": "2025-02-24",
+      "rating": 4,
+      "title": "Top service",
+      "text": "Been getting the shirts on a subscription for a while now for my son, he's loved every one! Great service.",
+      "topics": [
+        "service",
+        "gift",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0279",
+      "name": "Bret King",
+      "country": "GB",
+      "date": "2025-02-24",
+      "rating": 4,
+      "title": "See smiles on grandkids faces",
+      "text": "See smiles on grandkids faces",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0280",
+      "name": "CW",
+      "country": "GB",
+      "date": "2025-02-22",
+      "rating": 4,
+      "title": "Great Shirt!",
+      "text": "Great company, great shirt from the mystery box. Team from Egypt, lovely Umbro top.\n\nRecommend to others. Took a little longer than normal delivery, but to be expected with demand!",
+      "topics": [
+        "delivery",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0281",
+      "name": "Philip",
+      "country": "GB",
+      "date": "2025-02-10",
+      "rating": 4,
+      "title": "Great shirts",
+      "text": "Great shirts, ordered two,unfortunately because of storm Eowyn they didn't arrive for my sons birthday, but he was really pleased when they did arrive",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0282",
+      "name": "Colin",
+      "country": "GB",
+      "date": "2025-01-30",
+      "rating": 4,
+      "title": "Great shirts",
+      "text": "Great shirts. After an initial issue with an order good comms and quick resolution by company, would recommend.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0283",
+      "name": "Gràinne",
+      "country": "IE",
+      "date": "2025-01-03",
+      "rating": 4,
+      "title": "Great product and great service",
+      "text": "Great product and great service. My son was thrilled with his new Koen shirt",
+      "topics": [
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0284",
+      "name": "Emer Rosen",
+      "country": "IE",
+      "date": "2024-12-30",
+      "rating": 4,
+      "title": "Great shirt and good quality.",
+      "text": "Great shirt and good quality.",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0285",
+      "name": "BlueGN",
+      "country": "GB",
+      "date": "2024-12-25",
+      "rating": 4,
+      "title": "Great service",
+      "text": "Great service! Arrived quick! Present for someone, they loved it and we all joined in with the excitement of the mystery, wish the shirt was a little more well known but we now follow a Spanish 4th tier side progress as they aim for promotion in 2025.",
+      "topics": [
+        "delivery",
+        "service",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0286",
+      "name": "Robina Oxley",
+      "country": "GB",
+      "date": "2024-12-18",
+      "rating": 4,
+      "title": "They arrived on time and it was a good…",
+      "text": "They arrived on time and it was a good deal",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0287",
+      "name": "Sassy Deelite",
+      "country": "GB",
+      "date": "2024-12-11",
+      "rating": 4,
+      "title": "Great idea for a gift",
+      "text": "Great idea for a gift. I was worried it wasn't going to arrive as there was no tracking straight away on the product. However after a week they did get in touch to say that there had been a huge response and they were managing deliveries as best as they could. Once it had left you could track it. The gift itself is wonderful and any football fan would love to receive this. Sizing is accurate to.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "exchange",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0288",
+      "name": "Niamh Callery",
+      "country": "IE",
+      "date": "2024-12-01",
+      "rating": 4,
+      "title": "Happy customer",
+      "text": "Easy to order. Shirt arrived on time with good tracking info available. Nice quality shirt. I'm a little unclear about the subscription being continued - I thought I signed up for it but finding it hard to tell if my purchase was actually a one off.",
+      "topics": [
+        "delivery",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0289",
+      "name": "Sean",
+      "country": "IE",
+      "date": "2024-11-25",
+      "rating": 4,
+      "title": "Gave this service a go and was happy with it.",
+      "text": "Gave this service a go, the order was done really quick and it is an interesting experience. The quality and care is Cleary there and if football shirts are your thing this is a great way to get some really interesting and unique kit. My shirt was from an Indian 2nd division side. Might use the service going forward as a gift idea for mates.",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "quality",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0290",
+      "name": "Nathan Halton",
+      "country": "GB",
+      "date": "2024-11-21",
+      "rating": 4,
+      "title": "Had a query after I received my shirt…",
+      "text": "Had a query after I received my shirt the response was fairly fast and sorted any issue I had",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0291",
+      "name": "Hans Van Puyenbroeck",
+      "country": "BE",
+      "date": "2024-10-24",
+      "rating": 4,
+      "title": "Top service",
+      "text": "The quality of the jersey is amazing. I received a jersey and sent it back (player had just been traded away) and the team Was kind enough to help. I've ordered numerous jerseys through them and have been very pleased.",
+      "topics": [
+        "football",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0292",
+      "name": "Neil",
+      "country": "GB",
+      "date": "2024-10-15",
+      "rating": 4,
+      "title": "Still good but a little anticlimactic",
+      "text": "I've been subscribing for a while now and I'm generally happy with the quality of the shirt and the delivery experience. However, I'm becoming slightly disappointed with the lack of mainstream shirts I'm receiving. The latest was an obscure Welsh team and prior to that an Indian league shirt. Would just like a top division Spanish, French, Italian etc shirt a bit more often.",
+      "topics": [
+        "delivery",
+        "quality",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0293",
+      "name": "EG",
+      "country": "GB",
+      "date": "2024-10-02",
+      "rating": 4,
+      "title": "Arrived quickly and Good quality",
+      "text": "Arrived quickly and Good quality",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0294",
+      "name": "Jodie Stevenson",
+      "country": "GB",
+      "date": "2024-09-27",
+      "rating": 4,
+      "title": "Got bit confused to why didn't receive",
+      "text": "Got bit confused to why didn't receive art work on shirt 3 but.. Amazing!! Love love would be 5 ⭐️ but wish there was more English teams 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽️🥅 Overall brilliant",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0295",
+      "name": "Vanessa Barnett",
+      "country": "GB",
+      "date": "2024-09-25",
+      "rating": 4,
+      "title": "Great shirt",
+      "text": "Great shirt, brought for a gift",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0296",
+      "name": "Brendan O'Donoghue",
+      "country": "GB",
+      "date": "2024-08-23",
+      "rating": 4,
+      "title": "My son loved the top.",
+      "text": "My son loved the top.",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0297",
+      "name": "Aboubakaaar Vincent",
+      "country": "HR",
+      "date": "2024-07-18",
+      "rating": 4,
+      "title": "Better tracking",
+      "text": "Atalanta away shirt is great but only downside to order is tracking. I was not able to track it at all. All i wanted to know approx. date of arrival.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0298",
+      "name": "Emilio de Boer",
+      "country": "NL",
+      "date": "2024-07-18",
+      "rating": 4,
+      "title": "The whole concept is something i really…",
+      "text": "The whole concept is something i really like. The only downside i had of this was the time between the order and delivery. But all in all, i'm very happy with my shirt",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0299",
+      "name": "Matthew Morrison",
+      "country": "GB",
+      "date": "2024-07-09",
+      "rating": 4,
+      "title": "Kids love it",
+      "text": "Kids love the surprise when opening and then encourages them to look into the football team no matter the cou try",
+      "topics": [
+        "football",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0300",
+      "name": "Francesco",
+      "country": "IT",
+      "date": "2024-07-08",
+      "rating": 4,
+      "title": "Almost perfect..",
+      "text": "I received two shirts, one from Manchester United and one from Odisha, an Indian team. Fortunately, by son liked a lot also the indian one even if the quality is a bit lower with respect to the Manchester one. Honestly we were not expecting shirts from team outside europe but as I said we liked it so no problem. I am not giving 5 stars because of the excessive delivery time. If you are planning to use it as a gift, move a lot in advance.",
+      "topics": [
+        "delivery",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0301",
+      "name": "customer",
+      "country": "GB",
+      "date": "2024-07-05",
+      "rating": 4,
+      "title": "The shirts were very good quality and I…",
+      "text": "The shirts were very good quality and I am happy with them. Only down side is that both times that I have ordered shirts, the dispatching was delayed by a few weeks and I had to enquire before I heard anything.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0302",
+      "name": "R C",
+      "country": "IE",
+      "date": "2024-07-05",
+      "rating": 4,
+      "title": "Second shirt experience.....",
+      "text": "This was my second time getting the mystery shirt in a box. Great jersey, over the moon with it, was a player version napoli home kit. However the delivery took almost 3 weeks and there was no information card about the team or small print like last time, which was a little disappointing.",
+      "topics": [
+        "football",
+        "delivery",
+        "quality",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0303",
+      "name": "Darin Halifax",
+      "country": "GB",
+      "date": "2024-07-01",
+      "rating": 4,
+      "title": "Revised review",
+      "text": "Ordered on the 8/6 for my son's birthday later this week. Heard nothing since despite messages, what's app etc. Terrible customer service and a disappointed 13 year old. Completely misled and mis-sold. Would never use again. Re scored and re reviewed after hearing from Shirt In A Box. Explained why my order was late and it arrived as explained. Took a while but sorted in the end.",
+      "topics": [
+        "delivery",
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0304",
+      "name": "Knud Børge",
+      "country": "DK",
+      "date": "2024-06-13",
+      "rating": 4,
+      "title": "They had unfortunately run out of stock",
+      "text": "They had unfortunately run out of stock in my size, so it took some time for my shirt to arrive. But it arrived and it was in prestine condition. The only small complaint I got is really the long waiting time and they put a postcard with Jude Bellingham in a Barca fans package 😉",
+      "topics": [
+        "delivery",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0305",
+      "name": "Mr Lynskey",
+      "country": "IE",
+      "date": "2024-05-30",
+      "rating": 4,
+      "title": "truth",
+      "text": "what was stated to arrive, arrived, high quality products",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0306",
+      "name": "Kalo",
+      "country": "GB",
+      "date": "2024-05-28",
+      "rating": 4,
+      "title": "Very nice shirt",
+      "text": "Great shirt, great colours. Only issue was that box arrived opened. Nothing missing just was a little upset to see. Otherwise, happy with shirt :)",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0307",
+      "name": "Dave Greenhow",
+      "country": "GB",
+      "date": "2024-05-15",
+      "rating": 4,
+      "title": "Wow very yellow lol",
+      "text": "Apart from it being luminous a good start to subscription",
+      "topics": [
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0308",
+      "name": "Mikkel Halvorsen",
+      "country": "DK",
+      "date": "2024-05-15",
+      "rating": 4,
+      "title": "Im no superfan of Rangers",
+      "text": "Im no superfan of Rangers. But as far ad the shipping goes, no issues",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0309",
+      "name": "Fernando Fernandez",
+      "country": "DO",
+      "date": "2024-05-03",
+      "rating": 4,
+      "title": "I love stacking up these shirts",
+      "text": "I love stacking up these shirts, although size has been a problem and the the teams they are sending i've never heard of them, they are still cool. I'd love some more relevant teams for future purchases though, I would also like to receive the loyalty gifts that they have promised, i've never received one even though they have said they sent them. Other than that, customer service is quick to respond, i love how they treat me.",
+      "topics": [
+        "delivery",
+        "service",
+        "exchange",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0310",
+      "name": "Amy",
+      "country": "GB",
+      "date": "2024-05-02",
+      "rating": 4,
+      "title": "Delivery took longer as shirt went out…",
+      "text": "Delivery took longer as shirt went out of stock, but when it arrived I understood why!!! Great",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0311",
+      "name": "Andrew Trickey",
+      "country": "GB",
+      "date": "2024-05-01",
+      "rating": 4,
+      "title": "I am a big fan of this service",
+      "text": "I am a big fan of this service. The shirts can be quite random. But each on is the size requested, free Haribo... what more could a guy want...",
+      "topics": [
+        "service",
+        "exchange",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0312",
+      "name": "customer",
+      "country": "GB",
+      "date": "2024-03-25",
+      "rating": 4,
+      "title": "Good quick transaction. But…",
+      "text": "Good quick transaction. Although feel to get the better teams from around the world you need to have the premium order. As this is the 3rd purchase and end up with teams from the 5th tier of American football teams, or from the Bhutan league.",
+      "topics": [
+        "football",
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0313",
+      "name": "Lindsey Dodgson",
+      "country": "GB",
+      "date": "2024-03-18",
+      "rating": 4,
+      "title": "Great company",
+      "text": "Great company. Struggled a bit to get the size requested but was eventually delivered a few weeks later. Shirt is a bit bigger than previous same size ordered but my son is still very happy with it.",
+      "topics": [
+        "delivery",
+        "exchange",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0314",
+      "name": "william migliorati",
+      "country": "GB",
+      "date": "2024-03-11",
+      "rating": 4,
+      "title": "Advised",
+      "text": "Sometimes the shirt is from minor leagues but is good.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0315",
+      "name": "Dennis Segerdahl",
+      "country": "SE",
+      "date": "2024-03-05",
+      "rating": 4,
+      "title": "Great shirt as always",
+      "text": "Great shirt as always. Was just missing the socks that should have been included but they already told me that it will arrive in the next shipment",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0316",
+      "name": "Darren Hartin",
+      "country": "GB",
+      "date": "2024-03-04",
+      "rating": 4,
+      "title": "Great service",
+      "text": "Great service, great quality shirt very happy son 😁",
+      "topics": [
+        "service",
+        "quality",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0317",
+      "name": "Suzanne Kelly",
+      "country": "GB",
+      "date": "2024-02-08",
+      "rating": 4,
+      "title": "Monthly subscription",
+      "text": "My son has a monthly subscription and loves the surprise element each month, he collects jerseys so this is perfect for him. His favourite was the most recent AC milan jersey from a few seasons ago.",
+      "topics": [
+        "football",
+        "gift",
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0318",
+      "name": "William",
+      "country": "GB",
+      "date": "2024-02-02",
+      "rating": 4,
+      "title": "Easy and quick",
+      "text": "Easy to order and arrived ahead of estimated date.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0319",
+      "name": "Donal Russell",
+      "country": "IE",
+      "date": "2024-02-01",
+      "rating": 4,
+      "title": "Prompt delivery",
+      "text": "Prompt delivery and great variety",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0320",
+      "name": "FM",
+      "country": "GB",
+      "date": "2024-01-31",
+      "rating": 4,
+      "title": "Got a nice Galatasaray top from 2010/11…",
+      "text": "Got a nice Galatasaray top from 2010/11 season always recommend",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0321",
+      "name": "dobby gaming",
+      "country": "GB",
+      "date": "2024-01-06",
+      "rating": 4,
+      "title": "Great shirt",
+      "text": "Great shirt, been using for about a year now",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0322",
+      "name": "JASON",
+      "country": "GB",
+      "date": "2024-01-02",
+      "rating": 4,
+      "title": "Kamala Blasters!!",
+      "text": "Shirt was brilliant, some random team from India but delivery took a long time due to apparently running out of stock due to Christmas. Has to chase my order up twice before receiving it a few days before the arrival of the Big man. Despite all that will certainly order again due to the ability to say which shirts/countries you don't want a shirt from.",
+      "topics": [
+        "delivery",
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0323",
+      "name": "Deebeelee",
+      "country": "GB",
+      "date": "2024-01-01",
+      "rating": 4,
+      "title": "Fixed the mistake for and delivered the other shirt quickly....only fault is the packaging was opened as if someone had a look at what was inside....",
+      "text": "Fixed the mistake for and delivered the other shirt quickly....only fault is the packaging was opened as if someone had a look at what was inside....",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0324",
+      "name": "JimTraynor",
+      "country": "GB",
+      "date": "2024-01-01",
+      "rating": 4,
+      "title": "Good surprise for footie mad grandson",
+      "text": "Good surprise for footie mad grandson",
+      "topics": [
+        "gift",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0325",
+      "name": "customer",
+      "country": "GB",
+      "date": "2023-12-26",
+      "rating": 4,
+      "title": "Got shirt swiftly",
+      "text": "Got shirt swiftly",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0326",
+      "name": "Maximilian Thome",
+      "country": "DE",
+      "date": "2023-12-23",
+      "rating": 4,
+      "title": "Cool shirt",
+      "text": "Cool shirt, nice packaging, delivery took around 3 weeks to Germany though",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0327",
+      "name": "Anete Blazevica",
+      "country": "LV",
+      "date": "2023-12-20",
+      "rating": 4,
+      "title": "Shipment was received on time",
+      "text": "Shipment was received on time. The child was happy for the Haribo gift.",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0328",
+      "name": "quayle",
+      "country": "GB",
+      "date": "2023-12-19",
+      "rating": 4,
+      "title": "What was asked/expected",
+      "text": "What was asked/expected",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0329",
+      "name": "Donal Russell",
+      "country": "IE",
+      "date": "2023-12-05",
+      "rating": 4,
+      "title": "Prompt delivery and good quality jersey",
+      "text": "Prompt delivery and good quality jersey",
+      "topics": [
+        "football",
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0330",
+      "name": "customer",
+      "country": "GB",
+      "date": "2023-10-31",
+      "rating": 4,
+      "title": "Suprise on the choice",
+      "text": "Suprise on the choice, it's fun",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0331",
+      "name": "Adam",
+      "country": "GB",
+      "date": "2023-10-22",
+      "rating": 4,
+      "title": "Nice surprise",
+      "text": "Ive had some shockers, but the Sweden National shirt is probably one of the best shirts I've received from mystery shirt in a box. Considered cancelling subscription and doubling up my monthly sub with another provider, but will probably see out the first year of shirts with them now and take it from there.",
+      "topics": [
+        "subscription",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0332",
+      "name": "Matthew Morrison",
+      "country": "GB",
+      "date": "2023-10-12",
+      "rating": 4,
+      "title": "Kids are loving the mystery of what shirt they will get. Although one has got a shirt from the same club twice out of the last 3 orders.",
+      "text": "Kids are loving the mystery of what shirt they will get. Although one has got a shirt from the same club twice out of the last 3 orders.",
+      "topics": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0333",
+      "name": "Hunter",
+      "country": "US",
+      "date": "2023-10-08",
+      "rating": 4,
+      "title": "Shirts are great quality and arrive fast, just have trouble logging into my account to edit the subscription",
+      "text": "Shirts are great quality and arrive fast, just have trouble logging into my account to edit the subscription",
+      "topics": [
+        "delivery",
+        "quality",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0334",
+      "name": "louise hewitt",
+      "country": "GB",
+      "date": "2023-09-25",
+      "rating": 4,
+      "title": "Fab idea",
+      "text": "Fab idea, son was really pleased with the present",
+      "topics": [
+        "gift"
+      ]
+    },
+    {
+      "id": "r0335",
+      "name": "Kristupas Lankauskas",
+      "country": "LT",
+      "date": "2023-09-21",
+      "rating": 4,
+      "title": "Quality product",
+      "text": "I was surprised by amount of leagues and shirts to get from. The shirt I got is amazing, good quality. The only bad thing was delivery time, I waited for 3 weeks.",
+      "topics": [
+        "delivery",
+        "quality",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0336",
+      "name": "Nick Devlin",
+      "country": "GB",
+      "date": "2023-09-20",
+      "rating": 4,
+      "title": "Slight delay compensated by excellent customer service",
+      "text": "The original shirt that was received, didn't meet the requirements that was stated in the comments i.e. no EFL shirts. The follow up shirt was correct as requested. Only issue being, the whole process took around 3 weeks to be completed, which wasn't ideal. I will say however, the customer service was excellent; the turnaround time on emails is probably the fastest I've ever experienced.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0337",
+      "name": "Wendy Hutton",
+      "country": "CA",
+      "date": "2023-09-20",
+      "rating": 4,
+      "title": "I had difficulties completing my order and needed some assistance from your customer service. It took several emails and several days, but in the end my order was completed and the shirts received. Thanks to patience on both sides of the ocean.",
+      "text": "I had difficulties completing my order and needed some assistance from your customer service. It took several emails and several days, but in the end my order was completed and the shirts received. Thanks to patience on both sides of the ocean.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0338",
+      "name": "customer",
+      "country": "GB",
+      "date": "2023-09-18",
+      "rating": 4,
+      "title": "I received a top I already received previously.",
+      "text": "I received a top I already received previously.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0339",
+      "name": "dobby gaming",
+      "country": "GB",
+      "date": "2023-09-05",
+      "rating": 4,
+      "title": "The listened to my requirements",
+      "text": "The listened to my requirements",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0340",
+      "name": "Tito Rosales",
+      "country": "CA",
+      "date": "2023-09-01",
+      "rating": 4,
+      "title": "Not the best fit with Joma",
+      "text": "Great shirt! The fit in Joma is a bit thought for an XL Other than that all good.",
+      "topics": [
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0341",
+      "name": "Ashleigh Warburton",
+      "country": "GB",
+      "date": "2023-08-31",
+      "rating": 4,
+      "title": "Great shirt quality and delivered…",
+      "text": "Great shirt quality and delivered quickly definitely will be buying again",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0342",
+      "name": "Jp Du Heaume",
+      "country": "GG",
+      "date": "2023-08-25",
+      "rating": 4,
+      "title": "Helpful staff always respond to emails…",
+      "text": "Helpful staff always respond to emails within 30 mins in my experience. Was a bit of a delay in getting the shirt however after some convo with them we found out why . Shirt came today and I can't complain because it's a very nice El Salvador shirt and I never would have expected it but love it will be using again for sure",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0343",
+      "name": "Richard Walker",
+      "country": "GB",
+      "date": "2023-08-23",
+      "rating": 4,
+      "title": "Good service but the shirts are a bit…",
+      "text": "Good service but the shirts are a bit too much the same. Was expecting a change of region the shirts came from.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0344",
+      "name": "DaisyDumps",
+      "country": "GB",
+      "date": "2023-08-17",
+      "rating": 4,
+      "title": "I could be being mean with only 4 stars!",
+      "text": "We ordered two shirt in the box. One came one day but the other after we had gone on holiday. This parcel was left outside a closed up workshop in full view of public. Luckily our friendly estate agents picked it up and kept it safe. We had thought we had allowed enough time for delivery before our holiday. I would have happily given 5 stars as they have never failed us yet and we have had many shirts from them.",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0345",
+      "name": "RYAN",
+      "country": "GB",
+      "date": "2023-08-02",
+      "rating": 4,
+      "title": "Great Site, Just a little let down with this shirt",
+      "text": "Love the website for quality of shirts, but was a little bit disappointed with this Retro shirt. Just don't think I was expecting a cotton shirt, and more of a classic design rather than the 1960's Netherlands shirt I received. Not that it's a bad shirt, I wear it often, but just felt it wasn't worth the hype of the retro box! Will continue to order from the site going forward because I've had some really good products, just will stay away from the retros going forward in terms of personal preference",
+      "topics": [
+        "quality",
+        "value"
+      ]
+    },
+    {
+      "id": "r0346",
+      "name": "Michelangelo Narcisi",
+      "country": "IT",
+      "date": "2023-07-05",
+      "rating": 4,
+      "title": "Nice shirt",
+      "text": "Beautiful shirt",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0347",
+      "name": "Pauline Harbisher",
+      "country": "GB",
+      "date": "2023-06-30",
+      "rating": 4,
+      "title": "Great delivery etc",
+      "text": "Great delivery etc, but I didn't think I'd have to iron a birthday present before giving it, it looked like had been scrumpled up into a ball",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0348",
+      "name": "Customer",
+      "country": "US",
+      "date": "2023-06-28",
+      "rating": 4,
+      "title": "Loved this idea",
+      "text": "Loved this and it's such a great idea! Had to return only because it was a rival to a team my family supports, but have already ordered a new one with the return credit!",
+      "topics": [
+        "service",
+        "exchange"
+      ]
+    },
+    {
+      "id": "r0349",
+      "name": "K D",
+      "country": "GB",
+      "date": "2023-06-28",
+      "rating": 4,
+      "title": "Happy with the shirt received",
+      "text": "Couple of us ordered as was fun to see what we would end up, delivery was a little longer than expected but happy with the shirt I received. Thank",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0350",
+      "name": "Bruno Esteves",
+      "country": "PT",
+      "date": "2023-06-13",
+      "rating": 4,
+      "title": "Very Good service",
+      "text": "Very Good service. Delivery was fast. Now I hope they send me a major shirt club next time. :) Thank You",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0351",
+      "name": "Lucie Pollard",
+      "country": "GB",
+      "date": "2023-06-08",
+      "rating": 4,
+      "title": "Great idea and service but had 2 Ghana…",
+      "text": "Great idea and service but had 2 Ghana shirts in a row now. We also know someone else who lives close and they got the same one this month so not sure how random it is but overall a great idea and package.",
+      "topics": [
+        "service",
+        "mystery"
+      ]
+    },
+    {
+      "id": "r0352",
+      "name": "Kat",
+      "country": "GB",
+      "date": "2023-06-05",
+      "rating": 4,
+      "title": "Orders and returns easy",
+      "text": "Orders and returns easy. My son didn't like the first shirt so we returned he. He absolutely loves his new one.",
+      "topics": [
+        "exchange",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0353",
+      "name": "Phil",
+      "country": "GB",
+      "date": "2023-05-31",
+      "rating": 4,
+      "title": "Issues got sorted quickly",
+      "text": "Had some initial issues but once I managed to get it touch with customer services (I found that twitter was the easiest way to contact them) all got sorted quickly. Will buy from here again.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0354",
+      "name": "Mr Craig Oakes",
+      "country": "GB",
+      "date": "2023-05-28",
+      "rating": 4,
+      "title": "It's my first shirt and it is stunning",
+      "text": "It's my first shirt and it is stunning. However delivery took longer than I expected. Still I'm happy with the shirt and looking forward to the next one.",
+      "topics": [
+        "delivery",
+        "subscription"
+      ]
+    },
+    {
+      "id": "r0355",
+      "name": "Carl Boyd",
+      "country": "GB",
+      "date": "2023-05-11",
+      "rating": 4,
+      "title": "Delivery is a little slow",
+      "text": "Delivery is a little slow , and unfortunately my box was open when I received it , the shirt was really nice though and good quality.",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0356",
+      "name": "Mikkel Petersen",
+      "country": "DK",
+      "date": "2023-04-27",
+      "rating": 4,
+      "title": "The concept is great and a joy.",
+      "text": "The concept is great and a joy.. But delivery time, is a bit to long - 6/4 ordering - 26/4, still at DHL warehouse ? 😵‍💫🤷🏼‍♂️",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0357",
+      "name": "Ms Kathryn Braden",
+      "country": "GB",
+      "date": "2023-04-23",
+      "rating": 4,
+      "title": "Late delivery, super customer service, information card missing",
+      "text": "I had some issues where I had paid for 48hr delivery and it was well over that, I was getting concerned because it was a birthday gift. When I contacted them they were really apologetic and replied very quickly I explained the birthday situation and when I needed it by and I received it all in time. My only issue is the packaging was open at both ends and there was no information card so we had to send some time working out what shirt we had. I did reply to our email conversation about the missing information but haven't had a response.",
+      "topics": [
+        "delivery",
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0358",
+      "name": "Neil",
+      "country": "GB",
+      "date": "2023-04-22",
+      "rating": 4,
+      "title": "Really nice shirt once again.",
+      "text": "Really nice shirt once again. Happy with the customer service when chasing delivery.",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0359",
+      "name": "Roman Wilson",
+      "country": "GB",
+      "date": "2023-04-19",
+      "rating": 4,
+      "title": "was great just need better delivery",
+      "text": "was great just need a faster delivery service i got a leeds united third kit from 21/22 which i like and it fits me and suits me will order again and mabye try other leauges j leauge brazil leauge etc as they have some cool kits",
+      "topics": [
+        "football",
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0360",
+      "name": "Terri Johnson",
+      "country": "GB",
+      "date": "2023-04-19",
+      "rating": 4,
+      "title": "Haven't opened yet due to buying for…",
+      "text": "Haven't opened yet due to buying for sons birthday. Quick delivery. Will write further review when opened.",
+      "topics": [
+        "delivery",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0361",
+      "name": "Saarah Robinson",
+      "country": "GB",
+      "date": "2023-04-12",
+      "rating": 4,
+      "title": "Great when it arrived",
+      "text": "Delivery took longer than expected, but shirt is great and communication was good too",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0362",
+      "name": "Rob S.",
+      "country": "CA",
+      "date": "2023-04-03",
+      "rating": 4,
+      "title": "Great Soccer Kits. Worth the money.",
+      "text": "This is a great company. Their shirts are amazing and their staff is very helpful.",
+      "topics": [
+        "football",
+        "service",
+        "value"
+      ]
+    },
+    {
+      "id": "r0363",
+      "name": "Aran",
+      "country": "GB",
+      "date": "2023-03-24",
+      "rating": 4,
+      "title": "Good shirt",
+      "text": "Good shirt, quick delivery",
+      "topics": [
+        "delivery",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0364",
+      "name": "Rick",
+      "country": "IT",
+      "date": "2023-03-23",
+      "rating": 4,
+      "title": "The t-shirt it's amazing and the…",
+      "text": "The t-shirt it's amazing and the customer service too.",
+      "topics": [
+        "service"
+      ]
+    },
+    {
+      "id": "r0365",
+      "name": "Shaun Hobbs",
+      "country": "GB",
+      "date": "2023-03-23",
+      "rating": 4,
+      "title": "Great shirts its a shame i got the same…",
+      "text": "Great shirts its a shame i got the same shirt a couple of months ago but thats the risk.",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "id": "r0366",
+      "name": "Jay",
+      "country": "NZ",
+      "date": "2023-03-19",
+      "rating": 4,
+      "title": "Very happy customer!",
+      "text": "Great purchase! Really pleased with the shirt and the goodies inside! Only problem is that it took a while to get delivered… probably due to the fact that there was a cyclone in my country!! Nevertheless, it was still a great buy and I'd definitely buy it again!",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0367",
+      "name": "Copy IT",
+      "country": "GB",
+      "date": "2023-03-17",
+      "rating": 4,
+      "title": "Wonderful customer service was able to…",
+      "text": "Wonderful customer service was able to answer my question very quickly about the product was shipped in the time frame given. Amazing product over all good quality",
+      "topics": [
+        "delivery",
+        "service",
+        "quality"
+      ]
+    },
+    {
+      "id": "r0368",
+      "name": "jack withey",
+      "country": "GB",
+      "date": "2023-01-20",
+      "rating": 4,
+      "title": "Love the top",
+      "text": "Love the top, great quality",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0369",
+      "name": "honest reviewer",
+      "country": "PT",
+      "date": "2023-01-19",
+      "rating": 4,
+      "title": "the product is really nice im not…",
+      "text": "the product is really nice im not giving 5 stars because of a few details the shipping took the time they said it would take around 15 days BUT the packaging was ok and the box was not like they advertise on social media it was a bit clumsy and it did not bring the little gifts as they also show in their social media BUT the shirt was really nice quality and with no problems at all and it seems authentic. Really nice i would recomend.",
+      "topics": [
+        "quality",
+        "gift",
+        "legit"
+      ]
+    },
+    {
+      "id": "r0370",
+      "name": "Francisco Coelho",
+      "country": "PT",
+      "date": "2023-01-18",
+      "rating": 4,
+      "title": "Loving this concept",
+      "text": "I am in love with this concept, there was some problems with the delivery so only 4⭐️'s. But great effort from you to get everything right! Great Idea! Good job Thanks",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0371",
+      "name": "Damien",
+      "country": "AU",
+      "date": "2022-12-22",
+      "rating": 4,
+      "title": "Keep up the good work 👍",
+      "text": "No complaints about this company. Ordered from a remote area of Australia 25/11 Package arrived this week. Speedy response from the company anytime I emailed with a query. More than Happy to use them again.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0372",
+      "name": "Matt",
+      "country": "GB",
+      "date": "2022-12-11",
+      "rating": 4,
+      "title": "Happy with our purchase",
+      "text": "After an initial issue with the shirt not arriving, I contacted the company and received a quick response from Rory who rectified the problem and got a new shirt sent promptly. The replacement came quickly and we are more than happy with what was recieved. We will confidently purchase again. Thank you.",
+      "topics": [
+        "delivery",
+        "service"
+      ]
+    },
+    {
+      "id": "r0373",
+      "name": "Andrew Mootz",
+      "country": "US",
+      "date": "2022-12-05",
+      "rating": 4,
+      "title": "Great save!",
+      "text": "After some initial hiccups with the original delivery, the customer service team with Rafael and Stefon were very quick to respond to get to the bottom of the missing order. They were finally able to get things sorted out, and once shipped, it was very quick to make it to the US. My son was extremely happy with the jersey that arrived, and the gummy bears were a nice touch",
+      "topics": [
+        "football",
+        "delivery",
+        "service",
+        "gift"
+      ]
+    },
+    {
+      "id": "r0374",
+      "name": "Jratos",
+      "country": "CA",
+      "date": "2022-11-30",
+      "rating": 4,
+      "title": "Bought it from canada",
+      "text": "The quality is great but the shipping took long in Canada, I got 2 compliments in the gym with it",
+      "topics": [
+        "quality"
+      ]
+    },
+    {
+      "id": "r0375",
+      "name": "Luke Warburton",
+      "country": "GB",
+      "date": "2022-11-23",
+      "rating": 4,
+      "title": "Great choice of a shirt and good price…",
+      "text": "Great choice of a shirt and good price for everything there wasn't disappointed with the short I got either. Fully recommend it",
+      "topics": [
+        "value"
+      ]
+    },
+    {
+      "id": "r0376",
+      "name": "Matt",
+      "country": "AU",
+      "date": "2022-11-20",
+      "rating": 4,
+      "title": "Very happy with the shirts and the…",
+      "text": "Very happy with the shirts and the whole concept behind it all, im from Australia so it takes away 3-4 weeks to arrive which isn't to bad hoping to get a top 5 league shirt soon",
+      "topics": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "r0377",
+      "name": "oh212",
+      "country": "BE",
+      "date": "2022-11-15",
+      "rating": 4,
+      "title": "Great product",
+      "text": "Great product. Nice features added to the order (small history on the shirt). Delivery could be speedier Nonetheless... We recommend",
+      "topics": [
+        "delivery"
+      ]
+    }
   ]
 }

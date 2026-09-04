@@ -69,14 +69,19 @@ for (const f of files) {
     const text = (raw.text || '').trim();
     const title = (raw.title || '').trim();
     if (!name || !text || !raw.date || ![4, 5].includes(Number(raw.rating))) { skippedRule++; continue; }
-    if (text.length < 10) { skippedRule++; continue; }
+    if (text.length < 15) { skippedRule++; continue; }
+    if (/^\d{1,2} \w+ \d{2,4}$/.test(text)) { skippedRule++; continue; }        // card body was just a date
+    if (/^(n\/?a|none|no comment|\.+|-+)$/i.test(text)) { skippedRule++; continue; }
     if (!/^\d{4}-\d{2}-\d{2}$/.test(raw.date) || new Date(raw.date) > new Date()) { skippedRule++; continue; }
     if (EXCLUDED_REVIEWS.some(x => x.name === name && text.includes(x.contains))) { skippedRule++; continue; }
+    const cc = String(raw.country || '').toUpperCase();
+    if (!/^[A-Z]{2}$/.test(cc) || cc === 'XX') { skippedRule++; continue; }        // attribution needs a real country
+    raw.country = cc;
     if (EXCLUDE_TEXT.some(re => re.test(text))) { skippedRule++; continue; }
     const key = `${norm(name)}|${norm(text).slice(0, 80)}`;
     if (seen.has(key)) { skippedDup++; continue; }
     seen.set(key, {
-      id: '', name, country: /^[A-Z]{2}$/.test(raw.country || '') && raw.country !== 'XX' ? raw.country : 'GB',
+      id: '', name, country: raw.country,
       date: raw.date, rating: Number(raw.rating), title: title || text.slice(0, 60), text,
       topics: tag(title, text),
     });
